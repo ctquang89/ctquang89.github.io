@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Quang Chiem Porfolio'
+theme = 'ananke'
