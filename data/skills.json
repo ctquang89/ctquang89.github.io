@@ -1,0 +1,33 @@
+[
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ 
+        "Python",
+        "Git",
+        "Linux",
+        "Bash",
+        "Jquery",
+        "Javascript"
+      ]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Atlassian","Gitlab"]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        {"name":"Microsoft SQL Server","icon":"msql_server"},
+        {"name": "MongoDB","icon":"database"},
+        {"name":"Apache Spark"}
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          "Docker",
+          "AWS",
+          "Google Cloud"
+      ]
+  }
+]
