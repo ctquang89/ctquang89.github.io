@@ -18,7 +18,7 @@ profileImage = "images/Quang_PhotoIEEEAccessJournal.png"
 showQr = true
 showContact = false
 #sections = ["skills","publications","creations","contributions","experience","education","blog"]
-sections = ["skills", "blog"]
+sections = ["experience", "skills", "education", "blog"]
 
 [params.google]
 

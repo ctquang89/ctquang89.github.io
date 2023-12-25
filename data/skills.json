@@ -3,6 +3,8 @@
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[ 
         "Python",
+        "R",
+        "C++",
         "Git",
         "Linux",
         "Bash",
@@ -28,6 +30,13 @@
           "Docker",
           "AWS",
           "Google Cloud"
+      ]
+  },
+  {
+    "grouping":"Machine Learning Frameworks",
+      "skills":[
+          "Tensorflow",
+          "Pytorch"
       ]
   }
 ]

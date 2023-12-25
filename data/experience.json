@@ -1,20 +1,20 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"Data Sciengtist",
+        "company":"MTI Technology",
+        "summary":"Led in research and development of AI-based solutions for Japan market",
+        "range":"March 2020 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Research Assistant",
+        "company":"Royal Melbourne Institute of Technology",
+        "summary":"Investigated the possibility of using 3D to 2D mapping for a 3D classifier and evaluated a hybrid two-stages recognition system for pointCloud objects.",
+        "range":"May 2019 - November 2019"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Research Assistant",
+        "company":"Royal Melbourne Institute of Technology",
+        "summary":"Implementd and evaluated ternary FIR filter in both FPGA and ASIC.",
+        "range":"December 2015 - May 2016"
     }
 ]
