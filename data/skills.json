@@ -13,15 +13,48 @@
       ]
   },
   {
+    "grouping":"Data Wrangling",
+      "skills":[
+          "Numpy",
+          "Pandas",
+          "Plotly"
+      ]
+  },
+  {
+    "grouping":"Data Visualization",
+      "skills":[
+          "Matplotlib",
+          "Seaborn",
+          "Tableau"
+      ]
+  },
+  {
+    "grouping":"Machine Learning Frameworks",
+      "skills":[
+          "Tensorflow",
+          "Pytorch",
+          "Scikit-learn"
+      ]
+  },
+  {
+    "grouping":"AI skills",
+      "skills":[
+          "OpenCV",
+          "NLTK",
+          "SpaCy"
+      ]
+  },
+  {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Gitlab"]
+      "skills":[ "Atlassian","Gitlab", "Github"]
   },
   {
       "grouping":"Data Management",
       "skills":[
         {"name":"Microsoft SQL Server","icon":"msql_server"},
         {"name": "MongoDB","icon":"database"},
-        {"name":"Apache Spark"}
+        {"name":"Apache Spark"},
+        {"name":"Neo4j"}
       ]
   },
   {
@@ -30,13 +63,6 @@
           "Docker",
           "AWS",
           "Google Cloud"
-      ]
-  },
-  {
-    "grouping":"Machine Learning Frameworks",
-      "skills":[
-          "Tensorflow",
-          "Pytorch"
       ]
   }
 ]

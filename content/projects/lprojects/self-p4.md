@@ -1,7 +1,7 @@
 ---
 title: "Question Answering System"
 link: ""
-image: "https://www.mdpi.com/applsci/applsci-10-05510/article_deploy/html/images/applsci-10-05510-g001.png"
+image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToE3BKwQCip75feb0BcvjEOpFqKnhrd9wCnleAGYZavhVv2LgS5C0u5X8p7dtahETLhLQ&usqp=CAU"
 description: "Build an encoder–decoder network that generates a suitable question, given one of the candidate answers."
 featured: true
 tags: ["Python","Tensorflow2", "GenAI", "NLP"]
