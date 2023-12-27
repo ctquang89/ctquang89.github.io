@@ -9,15 +9,15 @@
         "Linux",
         "Bash",
         "Jquery",
-        "Javascript"
+        "Javascript",
+        "HTML"
       ]
   },
   {
     "grouping":"Data Wrangling",
       "skills":[
           "Numpy",
-          "Pandas",
-          "Plotly"
+          "Pandas"
       ]
   },
   {
@@ -25,7 +25,8 @@
       "skills":[
           "Matplotlib",
           "Seaborn",
-          "Tableau"
+          "Tableau",
+          "Plotly"
       ]
   },
   {
@@ -63,6 +64,14 @@
           "Docker",
           "AWS",
           "Google Cloud"
+      ]
+  },
+  {
+    "grouping":"Web Scraping",
+      "skills":[
+          "Scrapy",
+          "BeautifulSoup",
+          "Selenium"
       ]
   }
 ]
