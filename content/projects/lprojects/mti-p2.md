@@ -4,7 +4,7 @@ link: ""
 image: "https://www.rainviewer.com/images/posts/2023-03-20-how-does-hail-form/hail_08.jpg"
 description: "In Japan, where damage from weather disasters continues unabated, there is a need for weather information service providers to promptly notify the danger of unpredictable abnormal weather and encourage consumers to take swift avoidance actions.This project aimed to develop a system provide early detection for extreme weather."
 featured: true
-tags: ["Python","Pytorch","Generative Deep Learning","Computer Vision","AWS", "Gitlab"]
+tags: ["Python","Pytorch","GenAI","Computer Vision","AWS", "Gitlab"]
 fact: "Our forecast quality provided by AI-based system is proven to be better than Japan Meteorological Agency(JMA)"
 weight: 100
 sitemap: 

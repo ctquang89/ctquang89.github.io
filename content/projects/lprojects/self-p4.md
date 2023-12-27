@@ -4,7 +4,7 @@ link: ""
 image: "https://www.mdpi.com/applsci/applsci-10-05510/article_deploy/html/images/applsci-10-05510-g001.png"
 description: "Build an encoder–decoder network that generates a suitable question, given one of the candidate answers."
 featured: true
-tags: ["Python","Tensorflow2", "NLP"]
+tags: ["Python","Tensorflow2", "GenAI", "NLP"]
 fact: ""
 weight: 100
 sitemap: 

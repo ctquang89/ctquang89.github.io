@@ -4,7 +4,7 @@ link: ""
 image: "https://d3i71xaburhd42.cloudfront.net/329b84a919bfd1771be5bd14fa81e7b3f74cc961/64-Figure4.4-1.png"
 description: "Build a deep learning model to generate various faces using Generative Deep Learning technique"
 featured: true
-tags: ["Python","Pytorch","Generative Deep Learning","Pytorch Lightning"]
+tags: ["Python","Pytorch","GenAI","Pytorch Lightning"]
 fact: ""
 weight: 100
 sitemap: 
