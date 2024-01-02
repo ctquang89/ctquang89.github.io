@@ -1,16 +1,44 @@
+<!-- {{ define "footerfiles" }}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+<script src="{{ "js/custom.js" | absURL }}"></script>
+{{ end }} -->
+
 <section class="resume-section p-3 p-lg-5 d-flex d-column" id="lprojects">
   <div class="my-auto">
     <h2 class="mb-5">{{ .Title }}</h2>
     {{ .Content }}
 
     <!-- <div class="resume-item d-flex flex-column flex-md-row mb-3"> -->
-    {{ range .Pages }}  
+    <div id="button-nav">
+      <center>
+        <button class="three-trigger">Big</button>
+        <button class="four-trigger">Small</button>
+      </center>
+    </div> 
+    <br>
+
     <div class="row">
-      <div class="column">
-        {{with .Params.image }}
-          <img src="{{ . }}" style="max-height: 300px; max-width: 300px" />
-        {{ end }} {{ end }}
+      {{ range .Pages }}  
+      <div class="column d-flex flex-column flex-md-row">
+        <div class="box-masonry">
+
+          <a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{.Permalink}}">
+            {{with .Params.image }}
+              <img src="{{ . }}" class="img-fluid" />
+            {{ end }} 
+          </a>
+
+          <div class="box-masonry-text">
+            <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+            <p>{{ .Description | safeHTML }}</p>
+          </div>
+          <div>{{ partial "techtags" . }}</div>
+          
+        </div>
+
       </div>
+      {{ end }}
     </div>
   </div>
 </section>

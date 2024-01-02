@@ -20,6 +20,7 @@ showQr = true
 showContact = false
 #sections = ["skills","publications","creations","contributions","experience","education","blog"]
 sections = ["skills", "lprojects", "experience", "education"]
+custom_css = ["css/custom.css"]
 
 [params.google]
 
