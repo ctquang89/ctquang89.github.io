@@ -5,17 +5,11 @@
   // Declare a "loop" variable
   var i;
 
-  // Two images side by side
-  $('.two-trigger').click(function() {
-    for (i = 0; i < elements.length; i++) {
-      elements[i].style.flex = "50%";
-    }
-  });
-
-  // Two images side by side
+  // Three images side by side
   $('.three-trigger').click(function() {
     for (i = 0; i < elements.length; i++) {
       elements[i].style.flex = "33.33%";
+      elements[i].style.width = "33.33%";
     }
   });
 
@@ -23,6 +17,7 @@
   $('.four-trigger').click(function() {
     for (i = 0; i < elements.length; i++) {
       elements[i].style.flex = "25%";
+      elements[i].style.width = "25%";
     }
   });
 
