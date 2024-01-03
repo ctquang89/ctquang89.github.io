@@ -26,27 +26,5 @@
             {{ partial (printf "portfolio/%s" . ) $ }}
         {{ end }}
    {{ end }}
+   {{/*  partial "contact.html" . */}}
 {{ end }}
-
-
-
-{{/* 
-
-{{ define "main" }}
-   {{ partial "about.html" .}}
-   {{ $projects := slice "creations" "contributions" "lprojects"}}
-   {{ $sections := slice "publications" "blog" }}
-   {{ $site := .Site }}
-   {{ range .Site.Params.sections }}
-        {{ $sectionName := . }}
-        {{ if in $projects . }}
-            {{ with $site.GetPage "section" (printf "projects/%s" .) }}
-                {{ .Scratch.Set "sectionId" $sectionName }} 
-                {{ partial "projectsSummary" . }}
-            {{ end }}
-        
-        {{ end }}
-   {{ end }}
-{{ end }}
-
-*/}}

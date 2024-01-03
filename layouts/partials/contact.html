@@ -1,0 +1,37 @@
+<section class="resume-section p-3 p-lg-5 d-flex d-column" id="contact">
+  <div class="my-auto">
+    <div class="resume-item d-flex flex-column flex-md-row">
+      <div class="mr-auto">
+
+        <h2 class="mb-0">Get in touch !!! </h2>
+        {{ with .Site.Params.email }}
+        <h4>Drop me a line, maybe?</h4>
+        <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/f/mvoeoqpa">
+
+          <div class="controls">
+            <div class="form-group">
+              <label for="name">Your name *</label>
+              <input type="text" name="name" id="name" required="required" class="form-control">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="email">Your email *</label>
+            <input type="email" name="email" id="email" required="required" class="form-control">
+          </div>
+
+          <div class="form-group">
+            <label for="message">Your message for me *</label>
+            <textarea rows="4" name="message" id="message" required="required" class="form-control"></textarea>
+          </div>
+
+          <div>
+            <input type="submit" value="Send" class="btn btn-outline-primary">
+          </div>
+        </form>
+        {{end}}
+
+      </div>
+  </div>
+  
+</div>
+</section>
