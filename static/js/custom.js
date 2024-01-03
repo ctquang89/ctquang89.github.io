@@ -22,9 +22,8 @@
   });
 
   // toggle view;
-  var list_view = true;
+  var list_view = false;
   $('.toggle-view').click(function() {
-    alert('aa');
     list_view = !list_view;
     if (list_view) {
       $("#list-visible").show();
@@ -35,8 +34,5 @@
     }
   });
 
-  alert("aa");
-  
 
 })(jQuery); // End of use strict
-
