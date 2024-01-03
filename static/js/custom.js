@@ -21,5 +21,19 @@
     }
   });
 
+  // toggle view;
+  var list_view = false;
+  $('.toggle-view').click(function() {
+    list_view = !list_view;
+    if (list_view) {
+      $("#list-visible").show();
+      $("#grid-visible").hide();
+    } else {
+      $("#list-visible").hide();
+      $("#grid-visible").show();
+    }
+  });
+  
 
 })(jQuery); // End of use strict
+
