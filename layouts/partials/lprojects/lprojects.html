@@ -29,6 +29,7 @@
         <button class="button three-trigger btn-outline-primary">Big</button>
         <button class="button four-trigger btn-outline-primary">Small</button>
       </center>
+      <br>
 
       <div class="row">
         {{ range .Pages }}  
@@ -37,7 +38,7 @@
   
             <a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{.Permalink}}">
               {{with .Params.image }}
-                <img src="{{ . }}" class="img-fluid" />
+                <img src="{{ . }}" class="img-fluid img-responsive" />
               {{ end }} 
             </a>
   
