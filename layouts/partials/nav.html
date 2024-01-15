@@ -18,11 +18,11 @@
         <a class="nav-link js-scroll-trigger" href="/#{{.}}">{{ . | i18n }}</a>
       </li>
       {{ end }}
-      {{ if .Site.Params.showContact}}
+      <!-- {{ if .Site.Params.showContact}}
           <li class="nav-item">
             <a class="nav-link" href="/contact">{{ i18n "contact" }}</a>
           </li>
-      {{ end }}
+      {{ end }} -->
       <li class="nav-item">
         <a class="nav-link js-scroll-trigger" href="{{ "#contact" | relURL }}">{{ i18n "contact" }}</a>
       </li>
