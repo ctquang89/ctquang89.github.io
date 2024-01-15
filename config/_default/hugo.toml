@@ -16,6 +16,8 @@ lastName = "Chiem"
 phone = "(+84)789909647"
 #profileImage = "images/Quang_PhotoIEEEAccessJournal.png"
 profileImage = "https://media.licdn.com/dms/image/C5103AQG6jSDzY9mu3A/profile-displayphoto-shrink_800_800/0/1576319143809?e=1709164800&v=beta&t=8Or7GyY6dB4wBBNw2Msort6tr_k2EJLlCbvsljUel0s"
+#aboutImage = "https://img.freepik.com/premium-vector/young-man-avatar-character-vector-illustration-design_24877-18517.jpg"
+aboutImage = "/images/Quang.jpg"
 showQr = true
 showContact = false
 #sections = ["skills","publications","creations","contributions","experience","education","blog"]
