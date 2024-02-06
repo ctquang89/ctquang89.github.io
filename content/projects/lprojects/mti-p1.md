@@ -11,21 +11,34 @@ sitemap:
     priority : 0.8
 ---
 
-**Context:** 
-- This project aimed to develop a sophisticated tool for Japanese newspapers that automates the placement of content on the pages. - The goal was to enhance the efficiency and quality of newspaper layout design in the Japanese market.
-
-**Responsibilities:**
-- As the Team Leader, my responsibilities included leading, researching and developing an API (Application Programming Interface) for an automatic newspaper layout tool. This API is essentially a bridge between the user and the tool, allowing for seamless automation of content placement on newspaper pages.
-
-**Challenges and Difficulties:**
-- Developing this tool involved understanding the unique preferences of the Japanese market, and design principles. We had to ensure that the tool catered to these specific requirements, which added complexity to the project.
+**Relevance to the Business:**
+- Applied machine learning, deep learning and data analytics expertise to develop a sophisticated typesetting tool.
+- Targeted specifically for Japanese newspapers, aimed at enhancing efficiency, quality of layout design and cost reduction.
 
 **Accomplishments:**
-- One significant achievement was securing a patent for the Typesetting API, indicating the uniqueness and innovation of our approach. Additionally, we successfully delivered a Proof of Concept (PoC) to renowned companies like Toshiba and Fujitsu, showcasing the practical value of the technology.
-
-**Relevance to the Business:**
-- This project was highly relevant to the newspaper industry in Japan as it significantly improved the process of newspaper layout and design. It allowed newspapers to operate more efficiently, reduce costs, and provide a better reading experience for their audience.
+- Secured a patent for the Typesetting API.
+- Delivered a Proof of Concept (PoC) to renowned companies like Toshiba and Fujitsu.
 
 **Transferable Skills:**
-- Analytical skills, Data visualization, Constraint Programming and Deep Reinforcement Learning (portfolio optimization and credit scoring).
+- Knowledge of state of the art machine learning methodologies and their business applications in python (sklearn, pytorch, flask, fastapi) 
+- Knowledge of IT and Cluster technologies: Docker, Gitlab.
+- Analytical skill, Data visualization, Constraint Programming and Deep Reinforcement Learning (Proximal Policy Optimization).
 - Leadership, project management, and problem-solving skills.
+
+**Responsibilities:**
+- Led a multidisciplinary team, ensuring collaboration between data scientist, software developers, data analyst, and industry experts.
+- Mentor the junior team members and support them with technical issues.
+- Translated specific needs of Japanese newspapers into an optimized machine learning model.
+- Oversaw the end-to-end development of predictive models using advanced machine learning algorithms.
+
+**Challenges and Difficulties:**
+- Required understanding the unique preferences of the Japanese market, and design principles.
+- Demonstrated problem-solving skills at the intersection of machine learning and Japanese design.
+
+**Feedback and Endorsements:**
+- Received positive feedback from stakeholders on efficiency and quality improvements.
+- Endorsements affirm tangible contributions to the business landscape.
+
+**Context:** 
+- Comprehensive background in deep learning and data analytics.
+- Commitment to projects with direct business relevance, contributing to industry advancements.

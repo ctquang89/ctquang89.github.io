@@ -11,23 +11,31 @@ sitemap:
     priority : 0.8
 ---
 
-**Context:** 
-- This project focused on harnessing artificial intelligence for short-term weather forecasting, specifically for extreme weather conditions like hail storm. 
-- The objective was to provide timely and accurate forecasts for such events, which could have significant implications for a variety of industries, including insurance.
-
-**Responsibilities:**
-- My primary responsibilities included researching and implementing a data processing system for radar data obtained from both X-band and C-band radars. Additionally, we developed a "nowcast" system capable of predicting extreme weather events in the short term. The nowcast system acted as an early warning tool.
-
-**Challenges and Difficulties:**
-- This project presented challenges in terms of understanding and processing radar data from different bands, and the complexity of developing AI models for predicting extreme weather events. The main challenge was to provide accurate forecasts in a short time frame, which required a deep understanding of meteorological data and generative deep learning techniques.
+**Relevance to the Business:**
+- Leveraged my expertise in machine learning, deep learning, and data analytics to pioneer the development of an innovative AI-driven tool for short-term weather forecasting, with a specific focus on predicting hailstorms. 
+- Targeted diverse spectrum of Japanese companies, primarily targeting the insurance and car dealership sectors, aimed at elevating risk assessment capabilities by providing exceptionally accurate forecasts. This enhancement in risk assessment holds particular significance for the insurance sector, where weather-related events can exert substantial financial implications.
 
 **Accomplishments:**
-- One of the significant achievements of the project was the creation of a prototype for a Short-term Hail Nowcast, demonstrating our ability to forecast hailstorms in advance. In compariosn with forecast system provided by Japan Meteorological Agency(JMA), our forecast system achieve better accuracy (ours: 72% , JMA: 55%)
-- We also delivered a Proof of Concept (PoC) to the MS&AD insurance group, showcasing the practical value of the technology for industries like insurance, where weather-related risks can have substantial financial implications.
-
-**Relevance to the Business:**
-- The project's primary relevance was in providing early warnings for extreme weather conditions, which can help various industries, especially insurance, in assessing and mitigating weather-related risks. It was crucial for the insurance sector to understand and manage these risks effectively.
+- Developed a Short-term Hail Nowcast prototype, surpassing the accuracy of the Japan Meteorological Agency's (JMA) forecast system (72% vs. 55%).
+- Delivered a compelling Proof of Concept (PoC) to MS&AD insurance group, showcasing practical applications and superior forecasting capabilities.
 
 **Transferable Skills:**
-- Analytical skills, Quantitative Analysis, Data visualization, Machine Learning and Deep Learning Expertise (anomaly detection and risk assessment), Weather Domain Knowledge.
+- Analytical skills and Quantitative Analysis, Data visualization
+- Knowledge of Geneartive AI
+- Knowledge of Weather and Radar Meteorology.
 - Leadership, project management, and problem-solving skills.
+
+**Responsibilities:**
+- Led a data science team, ensuring collaboration between data scientists and industry experts.
+- Mentor the junior team members and support them with technical issues.
+- Translated specific needs of stakeholders into an optimized deep learning model.
+
+**Challenges and Difficulties:**
+- Required a deep understanding of meteorological data and generative deep learning techniques to provide accurate forecasts in a short time frame.
+
+**Feedback and Endorsements:**
+- Positive feedback from stakeholders.
+
+**Context:** 
+- Comprehensive background in deep learning and data analytics.
+- Commitment to projects with direct business relevance, contributing to industry advancements.
