@@ -1,5 +1,5 @@
 ---
-title: "Question Answering System"
+title: "Point Cloud Based 3D Object Detection"
 link: ""
 image: "https://machinatorium.files.wordpress.com/2013/10/man-vs-machine.gif"
 description: "Build an encoder–decoder network that generates a suitable question, given one of the candidate answers."

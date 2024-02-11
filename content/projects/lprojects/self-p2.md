@@ -1,16 +1,27 @@
 ---
-title: "Neural Style Transfer"
+title: "Return Forecasts using Conditional Autoconders"
 link: ""
-image: "https://intel.github.io/webml-polyfill/examples/style_transfer/img/Wheatfield_with_Crows.jpg"
-description: "Build a model to transfer the style of a single image onto a base image"
+image: "https://20995814.fs1.hubspotusercontent-na1.net/hub/20995814/hubfs/Skubana/Blog%20Pages/Imported_Blog_Media/big%20data%20analytics%2c%20business%20team%20working%20on%20computer-Oct-12-2022-05-51-21-63-PM.jpg?upsize=true&upscale=true&width=2400&height=1600&name=big%20data%20analytics%2c%20business%20team%20working%20on%20computer-Oct-12-2022-05-51-21-63-PM.jpg"
+description: "Develop an autoconder, which is a neural network trained to reproduce the input while learning a new representation of the data, to analyze the impact of some factors including economic conditions, investor behavior, or other mysterious influences on asset returns. The primary advantages include reducing pricing errors and ensuring adherence to economic principles within the developed pricing model."
 featured: true
-tags: ["Python","Tensorflow2", "GenAI"]
+tags: ["Python","Tensorflow2", "Finance"]
 fact: ""
 weight: 80
 sitemap: 
     priority : 1.0
 ---
 
-<!-- <img src="https://ars.els-cdn.com/content/image/3-s2.0-B9780128243497000153-f08-34-9780128243497.jpg" alt="MarineGEO circle logo" style="height: 100%; width:100%;"/> -->
+**Relevance to the Business:**
+- Leveraged my expertise in Deep Learning to develope model for analyzing how hidden factors, which could be related to economic conditions, investor behavior, or other mysterious influences, affect asset returns.
+- The key benefits include reducing pricing errors and ensuring that the developed pricing model adheres to economic principles. 
 
-![Neural Style Transfer](https://www.popit.kr/wp-content/uploads/2018/04/gatys_style_transfer.jpg "Neural Style Transfer")
+**Accomplishments:**
+- Developed and deployed an autoencoder model to generate accurate return forecasts, optimizing investment strategies.
+
+**Transferable Skills:**
+- Proficient in financial data analysis and forecasting methodologies.
+- Skilled in applying Machine Learning techniques, especially Deep Learning models, to tabular data analysis.
+
+**Responsibilities:**
+- Developed an autoencoder model for return forecast generation. Fine-tuning parameters for optimal performance.
+
