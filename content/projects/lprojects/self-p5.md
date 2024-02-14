@@ -2,7 +2,7 @@
 title: "Point Cloud Based 3D Object Detection"
 link: ""
 image: "https://www.researchgate.net/profile/Linghao-Chen-2/publication/340499848/figure/fig1/AS:877886718365697@1586315912872/The-dimension-regularization-during-Pseudo-GT-generation-penalizes-a-voxel-if-it-is.ppm"
-description: "Build an encoder–decoder network that generates a suitable question, given one of the candidate answers."
+description: "Develop 3D Object Detection algorithms for enhancing the accuracy, robustness, and capabilities of autonomous systems across a spectrum of applications and industries."
 featured: true
 tags: ["Python","Tensorflow2", "Computer Vision", "Point Cloud", "C++"]
 fact: ""
