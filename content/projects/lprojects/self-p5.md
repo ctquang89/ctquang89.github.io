@@ -1,7 +1,7 @@
 ---
 title: "Point Cloud Based 3D Object Detection"
 link: ""
-image: "https://machinatorium.files.wordpress.com/2013/10/man-vs-machine.gif"
+image: "https://www.researchgate.net/profile/Linghao-Chen-2/publication/340499848/figure/fig1/AS:877886718365697@1586315912872/The-dimension-regularization-during-Pseudo-GT-generation-penalizes-a-voxel-if-it-is.ppm"
 description: "Build an encoder–decoder network that generates a suitable question, given one of the candidate answers."
 featured: true
 tags: ["Python","Tensorflow2", "GenAI", "NLP"]
@@ -11,21 +11,22 @@ sitemap:
     priority : 1.0
 ---
 
-<!-- <img src="https://ars.els-cdn.com/content/image/3-s2.0-B9780128243497000153-f08-34-9780128243497.jpg" alt="MarineGEO circle logo" style="height: 100%; width:100%;"/> -->
-
-![Question Answering System](https://lilianweng.github.io/posts/2020-10-29-odqa/QA-summary.png "Question Answering System")
-
 **Relevance to the Business:**
-- Leveraged my expertise in deep learning and Natural Language Processing (NLP) to develop tools for enhancing efficient information retrieval in today's data-driven environment. 
-- Targeted at business entities who improve customer support and productivity by automating the extraction of valuable insights from their vast databases.
+- Leveraged my expertise in Computer Vision and Deep Learning to develop object detection algorithms using 3D cameras/sensors (3D Object Detection Algorithms). These advancements significantly enhance robustness, and capabilities of autonomous systems across wide ranges of applications and industries.
+
+- Targeted applications could be
+  - Self-driving Cars: my algorithms help autonomous cars understand theirs surroundings 
+  - Augmented Reality (AR) and Virtual Reality (VR): my algorithms facilitate the seamless integration of virtual objects into the physical world, elevating the user experience by providing realistic and immersive virtual environments.
+  - Industrial Automation: my algorithms can help to inspect components, detect infects automatically. 
+  - Medical diagnosis: my algorithms can be used for tasks such as tumor detection and organ segmentation.
 
 **Accomplishments:**
-- Delivered an attractive Proof of Concept (PoC) to MTI and some private clients, showcasing practical applications.
+- Two publications about algorithms for 3D object detection.
 
 **Transferable Skills:**
-- Solid Understanding of Deep Learning models for NLP, 
-- Skilled in Python programming and utilization of NLP libraries such as spaCy, NLTK, transfomer models from hugging face.
+- Solid Understanding of Computer Vision and Deep Learning models, 3D object modelling. 
+- Skilled in Python and C++ programming; and utilization of tensorflow, Computer Vision
 
 **Responsibilities:**
-- Developed a prototype for Q&A systems, from conceptualization to implementation.
+- Developed a prototype for 3D Object Detection systems, from conceptualization to implementation.
 
