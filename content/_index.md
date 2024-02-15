@@ -10,7 +10,7 @@ outputs:
 - json
 ---
 
-As an AI enthusiast, I excel in guiding businesses towards informed decisions through 
+As an AI enthusiast equipped with doctoral degree in Machine Learning and Computer Vision, I excel in guiding businesses towards informed decisions through 
 - Insightful data analysis
 - Product innovation
 - Customer-centric solution

@@ -2,8 +2,13 @@
     {
         "role":"Data Scientist",
         "company":"MTI Technology",
-        "summary":"Led in research and development of AI-based solutions for Japan market",
+        "summary":"I spearheaded the development of a tool tailored to support typesetting operations for newspapers in Japan. Additionally, I conducted extensive research to devise a Short-term Hail Forecast for clients across diverse sectors, including the MS&AI insurance group and car dealerships. In parallel, I provided mentorship to junior and mid-level data scientists, overseeing project management and facilitating the onboarding process for new project initiatives and technology stacks.",
         "range":"March 2020 - Present"
+    },
+    {
+        "role":"Data Scientist / Machine Learning Engineer Freelancer",
+        "summary":"I worked with multiple clients from Australia and Singapore, undertaking research and development projects centered on AI-driven solutions for streamlining administrative HR processes. This encompassed the creation of tools for tasks such as Resume Screening and Open-Domain Question Answer Systems. Furthermore, I contributed to a project focusing on employing Generative models for time series forecasting, showcasing versatility across a range of advanced AI techniques and applications.",
+        "range":"September 2019 - Present"
     },
     {
         "role":"Research Assistant",
