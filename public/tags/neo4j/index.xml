@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neo4j on Quang Chiem</title>
+    <link>http://localhost:1313/tags/neo4j/</link>
+    <description>Recent content in Neo4j on Quang Chiem</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/neo4j/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recommendations System</title>
+      <link>http://localhost:1313/projects/lprojects/self-p3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lprojects/self-p3/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/applsci/applsci-10-05510/article_deploy/html/images/applsci-10-05510-g001.png&#34; alt=&#34;Recommendation System&#34; title=&#34;Recommendation System&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Enhance customer experience and engagement by providing tailored product or content suggestions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Implemented collaborative filtering and content-based filtering techniques to generate personalized recommendations.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transferable Skills:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Proficient in machine learning algorithms  including standard algorithms for Regression and Classification, Deep Learning constructs (RNN, CNN, Auto Encoders, GANs) and AI systems such as Voice to Text, NLP and Recommender systems.&lt;/li&gt;&#xA;&lt;li&gt;Understanding ML systems using Spark libraries such as ML Lib, Spark SQL.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

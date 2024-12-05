@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pytorch Lightning on Quang Chiem</title>
+    <link>http://localhost:1313/tags/pytorch-lightning/</link>
+    <description>Recent content in Pytorch Lightning on Quang Chiem</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/pytorch-lightning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Avatar Generator</title>
+      <link>http://localhost:1313/projects/lprojects/self-p1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lprojects/self-p1/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/3-s2.0-B9780128243497000153-f08-34-9780128243497.jpg&#34; alt=&#34;MarineGEO circle logo&#34; title=&#34;MarineGEO logo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Leveraged my expertise in Deep Learning and Gen AI to develop AI-based tools for generating avatar for individual creators and influencers. The tool offers a new medium to express creativity and help to maintain a consistent and engaging online presence.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An Application Programming Interface for AI Avatar generation tool.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transferable Skills:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solid understanding of image processing, data preprocessing, and model evaluation techniques&lt;/li&gt;&#xA;&lt;li&gt;Solid Understanding of Generative Deep Learning (Gan and Diffusion models),&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

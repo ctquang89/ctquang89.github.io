@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Quang Chiem</title>
+    <link>http://localhost:1313/projects/lprojects/</link>
+    <description>Recent content in Projects on Quang Chiem</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/lprojects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Return Forecasts using Conditional Autoconders</title>
+      <link>http://localhost:1313/projects/lprojects/self-p2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lprojects/self-p2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Leveraged my expertise in Deep Learning to develope model for analyzing how hidden factors, which could be related to economic conditions, investor behavior, or other mysterious influences, affect asset returns.&lt;/li&gt;&#xA;&lt;li&gt;The key benefits include reducing pricing errors and ensuring that the developed pricing model adheres to economic principles.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed and deployed an autoencoder model to generate accurate return forecasts, optimizing investment strategies.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transferable Skills:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Proficient in financial data analysis and forecasting methodologies.&lt;/li&gt;&#xA;&lt;li&gt;Skilled in applying Machine Learning techniques, especially Deep Learning models, to tabular data analysis.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Avatar Generator</title>
+      <link>http://localhost:1313/projects/lprojects/self-p1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lprojects/self-p1/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/3-s2.0-B9780128243497000153-f08-34-9780128243497.jpg&#34; alt=&#34;MarineGEO circle logo&#34; title=&#34;MarineGEO logo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Leveraged my expertise in Deep Learning and Gen AI to develop AI-based tools for generating avatar for individual creators and influencers. The tool offers a new medium to express creativity and help to maintain a consistent and engaging online presence.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An Application Programming Interface for AI Avatar generation tool.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transferable Skills:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solid understanding of image processing, data preprocessing, and model evaluation techniques&lt;/li&gt;&#xA;&lt;li&gt;Solid Understanding of Generative Deep Learning (Gan and Diffusion models),&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Point Cloud Based 3D Object Detection</title>
+      <link>http://localhost:1313/projects/lprojects/self-p5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lprojects/self-p5/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Leveraged my expertise in Computer Vision and Deep Learning to develop object detection algorithms using 3D cameras/sensors (3D Object Detection Algorithms). These advancements significantly enhance robustness, and capabilities of autonomous systems across wide ranges of applications and industries.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Targeted applications could be&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Self-driving Cars: my algorithms help autonomous cars understand theirs surroundings&lt;/li&gt;&#xA;&lt;li&gt;Augmented Reality (AR) and Virtual Reality (VR): my algorithms facilitate the seamless integration of virtual objects into the physical world, elevating the user experience by providing realistic and immersive virtual environments.&lt;/li&gt;&#xA;&lt;li&gt;Industrial Automation: my algorithms can help to inspect components, detect infects automatically.&lt;/li&gt;&#xA;&lt;li&gt;Medical diagnosis: my algorithms can be used for tasks such as tumor detection and organ segmentation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Question Answering System</title>
+      <link>http://localhost:1313/projects/lprojects/self-p4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lprojects/self-p4/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lilianweng.github.io/posts/2020-10-29-odqa/QA-summary.png&#34; alt=&#34;Question Answering System&#34; title=&#34;Question Answering System&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Leveraged my expertise in deep learning and Natural Language Processing (NLP) to develop tools for enhancing efficient information retrieval in today&amp;rsquo;s data-driven environment.&lt;/li&gt;&#xA;&lt;li&gt;Targeted at business entities who improve customer support and productivity by automating the extraction of valuable insights from their vast databases.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Delivered an attractive Proof of Concept (PoC) to MTI and some private clients, showcasing practical applications.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transferable Skills:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recommendations System</title>
+      <link>http://localhost:1313/projects/lprojects/self-p3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lprojects/self-p3/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/applsci/applsci-10-05510/article_deploy/html/images/applsci-10-05510-g001.png&#34; alt=&#34;Recommendation System&#34; title=&#34;Recommendation System&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Enhance customer experience and engagement by providing tailored product or content suggestions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Implemented collaborative filtering and content-based filtering techniques to generate personalized recommendations.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transferable Skills:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Proficient in machine learning algorithms  including standard algorithms for Regression and Classification, Deep Learning constructs (RNN, CNN, Auto Encoders, GANs) and AI systems such as Voice to Text, NLP and Recommender systems.&lt;/li&gt;&#xA;&lt;li&gt;Understanding ML systems using Spark libraries such as ML Lib, Spark SQL.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Short-term Hail Nowcast Using AI for Extreme Weather Events</title>
+      <link>http://localhost:1313/projects/lprojects/mti-p2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lprojects/mti-p2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Leveraged my expertise in machine learning, deep learning, and data analytics to pioneer the development of an innovative AI-driven tool for short-term weather forecasting, with a specific focus on predicting hailstorms.&lt;/li&gt;&#xA;&lt;li&gt;Targeted diverse spectrum of Japanese companies, primarily targeting the insurance and car dealership sectors, aimed at elevating risk assessment capabilities by providing exceptionally accurate forecasts. This enhancement in risk assessment holds particular significance for the insurance sector, where weather-related events can exert substantial financial implications.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Typesetting – AI-based Newspaper Placement Tool for the Japanese market.</title>
+      <link>http://localhost:1313/projects/lprojects/mti-p1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lprojects/mti-p1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Applied machine learning, deep learning and data analytics expertise to develop a sophisticated typesetting tool.&lt;/li&gt;&#xA;&lt;li&gt;Targeted specifically for Japanese newspapers, aimed at enhancing efficiency, quality of layout design and cost reduction.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Secured a patent for the Typesetting API.&lt;/li&gt;&#xA;&lt;li&gt;Delivered a Proof of Concept (PoC) to renowned companies like Toshiba and Fujitsu.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transferable Skills:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Knowledge of state of the art machine learning methodologies and their business applications in python (sklearn, pytorch, flask, fastapi)&lt;/li&gt;&#xA;&lt;li&gt;Knowledge of IT and Cluster technologies: Docker, Gitlab.&lt;/li&gt;&#xA;&lt;li&gt;Analytical skill, Data visualization, Constraint Programming and Deep Reinforcement Learning (Proximal Policy Optimization).&lt;/li&gt;&#xA;&lt;li&gt;Leadership, project management, and problem-solving skills.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

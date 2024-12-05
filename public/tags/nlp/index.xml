@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Quang Chiem</title>
+    <link>http://localhost:1313/tags/nlp/</link>
+    <description>Recent content in NLP on Quang Chiem</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Question Answering System</title>
+      <link>http://localhost:1313/projects/lprojects/self-p4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lprojects/self-p4/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lilianweng.github.io/posts/2020-10-29-odqa/QA-summary.png&#34; alt=&#34;Question Answering System&#34; title=&#34;Question Answering System&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Leveraged my expertise in deep learning and Natural Language Processing (NLP) to develop tools for enhancing efficient information retrieval in today&amp;rsquo;s data-driven environment.&lt;/li&gt;&#xA;&lt;li&gt;Targeted at business entities who improve customer support and productivity by automating the extraction of valuable insights from their vast databases.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Delivered an attractive Proof of Concept (PoC) to MTI and some private clients, showcasing practical applications.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transferable Skills:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

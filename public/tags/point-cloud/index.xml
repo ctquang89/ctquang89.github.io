@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Point Cloud on Quang Chiem</title>
+    <link>http://localhost:1313/tags/point-cloud/</link>
+    <description>Recent content in Point Cloud on Quang Chiem</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/point-cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Point Cloud Based 3D Object Detection</title>
+      <link>http://localhost:1313/projects/lprojects/self-p5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lprojects/self-p5/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Leveraged my expertise in Computer Vision and Deep Learning to develop object detection algorithms using 3D cameras/sensors (3D Object Detection Algorithms). These advancements significantly enhance robustness, and capabilities of autonomous systems across wide ranges of applications and industries.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Targeted applications could be&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Self-driving Cars: my algorithms help autonomous cars understand theirs surroundings&lt;/li&gt;&#xA;&lt;li&gt;Augmented Reality (AR) and Virtual Reality (VR): my algorithms facilitate the seamless integration of virtual objects into the physical world, elevating the user experience by providing realistic and immersive virtual environments.&lt;/li&gt;&#xA;&lt;li&gt;Industrial Automation: my algorithms can help to inspect components, detect infects automatically.&lt;/li&gt;&#xA;&lt;li&gt;Medical diagnosis: my algorithms can be used for tasks such as tumor detection and organ segmentation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

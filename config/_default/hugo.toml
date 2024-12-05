@@ -15,13 +15,13 @@ firstName = "Quang"
 lastName = "Chiem"
 phone = "(+84)789909647"
 #profileImage = "images/Quang_PhotoIEEEAccessJournal.png"
-profileImage = "https://media.licdn.com/dms/image/C5103AQG6jSDzY9mu3A/profile-displayphoto-shrink_800_800/0/1576319143809?e=1709164800&v=beta&t=8Or7GyY6dB4wBBNw2Msort6tr_k2EJLlCbvsljUel0s"
+profileImage = "https://media.licdn.com/dms/image/v2/C5103AQG6jSDzY9mu3A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1576319143809?e=1738800000&v=beta&t=yDtf8EEAYhfqqMavLACmnWimc_BY_mDEjqrhpeQu19c"
 #aboutImage = "https://img.freepik.com/premium-vector/young-man-avatar-character-vector-illustration-design_24877-18517.jpg"
 aboutImage = "/images/Quang.jpg"
 showQr = true
 showContact = false
 #sections = ["skills","publications","creations","contributions","experience","education","blog"]
-sections = ["skills", "lprojects", "experience", "education"]
+sections = ["skills", "lprojects", "experience", "education", "blog"]
 custom_css = ["css/custom.css"]
 
 [params.google]

@@ -19,7 +19,6 @@
       <div class="my-auto" id="projects-content">      
         {{ $featuredPages := where .Pages "Params.featured" true }}
         {{ range $featuredPages }}
-          {{ partial (printf "%s%s" .Section "Summary") . }}
         {{ end }}
       </div>
     </div>
@@ -46,7 +45,6 @@
               <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
               <p>{{ .Description | safeHTML }}</p>
             </div>
-            <div>{{ partial "techtags" . }}</div>
             
           </div>
   
