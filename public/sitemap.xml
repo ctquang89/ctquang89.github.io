@@ -160,6 +160,10 @@
   </url><url>
     <loc>http://localhost:1313/tags/confluence/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/constrained-programming/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/deep-learning/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/creations/docker-marketplace/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/finance/</loc>
@@ -192,5 +196,7 @@
     <loc>http://localhost:1313/tags/spring/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/tensorflow2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/blog/typesetting/</loc>
   </url>
 </urlset>
