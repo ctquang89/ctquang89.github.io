@@ -6,7 +6,7 @@
     <description>Recent content in Python on Quang Chiem</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jul 2021 14:09:10 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Return Forecasts using Conditional Autoconders</title>
@@ -58,6 +58,13 @@
       <description>&lt;p&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Applied machine learning, deep learning and data analytics expertise to develop a sophisticated typesetting tool.&lt;/li&gt;&#xA;&lt;li&gt;Targeted specifically for Japanese newspapers, aimed at enhancing efficiency, quality of layout design and cost reduction.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Secured a patent for the Typesetting API.&lt;/li&gt;&#xA;&lt;li&gt;Delivered a Proof of Concept (PoC) to renowned companies like Toshiba and Fujitsu.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transferable Skills:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Knowledge of state of the art machine learning methodologies and their business applications in python (sklearn, pytorch, flask, fastapi)&lt;/li&gt;&#xA;&lt;li&gt;Knowledge of IT and Cluster technologies: Docker, Gitlab.&lt;/li&gt;&#xA;&lt;li&gt;Analytical skill, Data visualization, Constraint Programming and Deep Reinforcement Learning (Proximal Policy Optimization).&lt;/li&gt;&#xA;&lt;li&gt;Leadership, project management, and problem-solving skills.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Typesetting - AI-driven solution to automate the labour-intensive process of newspaper article arrangement</title>
+      <link>http://localhost:1313/blog/typesetting/</link>
+      <pubDate>Thu, 01 Jul 2021 14:09:10 +0000</pubDate>
+      <guid>http://localhost:1313/blog/typesetting/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;The typesetting project aimed to create an AI-driven solution to automate the labor-intensive process of newspaper article arrangement, addressing several critical challenges. Manual typesetting is notoriously time-consuming and stressful, often leading to inconsistent layouts and potential human errors. These issues not only hinder productivity but also limit the ability to explore diverse solutions for optimal newspaper design. By leveraging Assistive AI, this project seeks to significantly reduce the manual workload, enhance operational efficiency, and ensure consistent output quality. The successful application of this technology in typesetting showcases its potential transferability to other industries facing similar manual challenges, offering a scalable solution for improving efficiency and reducing human error across various fields.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>BOSH release for Bamboo &amp; Remote Agents</title>
       <link>http://localhost:1313/projects/creations/bosh-agents/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
@@ -70,13 +77,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/creations/docker-marketplace/</guid>
       <description>&lt;p&gt;Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace.&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Executes integration/AUT level tests against all stated compatible versions for the product&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Uploads generated artifact to Atlassian marketplace&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Provides corresponding metadata indicating version, release notes, and compatibility&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Typesetting - AI-driven solution to automate the labour-intensive process of newspaper article arrangement</title>
-      <link>http://localhost:1313/blog/typesetting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/typesetting/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&#xA;The typesetting project aimed to create an AI-driven solution to automate the labor-intensive process of newspaper article arrangement, addressing several critical challenges. Manual typesetting is notoriously time-consuming and stressful, often leading to inconsistent layouts and potential human errors. These issues not only hinder productivity but also limit the ability to explore diverse solutions for optimal newspaper design. By leveraging Assistive AI, this project seeks to significantly reduce the manual workload, enhance operational efficiency, and ensure consistent output quality. The successful application of this technology in typesetting showcases its potential transferability to other industries facing similar manual challenges, offering a scalable solution for improving efficiency and reducing human error across various fields.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

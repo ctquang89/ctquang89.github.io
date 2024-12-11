@@ -6,6 +6,7 @@
     <description>Recent content in Pytorch on Quang Chiem</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jul 2021 14:09:10 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Avatar Generator</title>
@@ -31,9 +32,9 @@
     <item>
       <title>Typesetting - AI-driven solution to automate the labour-intensive process of newspaper article arrangement</title>
       <link>http://localhost:1313/blog/typesetting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jul 2021 14:09:10 +0000</pubDate>
       <guid>http://localhost:1313/blog/typesetting/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&#xA;The typesetting project aimed to create an AI-driven solution to automate the labor-intensive process of newspaper article arrangement, addressing several critical challenges. Manual typesetting is notoriously time-consuming and stressful, often leading to inconsistent layouts and potential human errors. These issues not only hinder productivity but also limit the ability to explore diverse solutions for optimal newspaper design. By leveraging Assistive AI, this project seeks to significantly reduce the manual workload, enhance operational efficiency, and ensure consistent output quality. The successful application of this technology in typesetting showcases its potential transferability to other industries facing similar manual challenges, offering a scalable solution for improving efficiency and reducing human error across various fields.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;The typesetting project aimed to create an AI-driven solution to automate the labor-intensive process of newspaper article arrangement, addressing several critical challenges. Manual typesetting is notoriously time-consuming and stressful, often leading to inconsistent layouts and potential human errors. These issues not only hinder productivity but also limit the ability to explore diverse solutions for optimal newspaper design. By leveraging Assistive AI, this project seeks to significantly reduce the manual workload, enhance operational efficiency, and ensure consistent output quality. The successful application of this technology in typesetting showcases its potential transferability to other industries facing similar manual challenges, offering a scalable solution for improving efficiency and reducing human error across various fields.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

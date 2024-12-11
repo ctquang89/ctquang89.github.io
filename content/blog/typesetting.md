@@ -1,5 +1,6 @@
 ---
 title: 'Typesetting - AI-driven solution to automate the labour-intensive process of newspaper article arrangement'
+date: Thu, 01 Jul 2021 14:09:10 +0000
 draft: false
 tags: ["Python","Pytorch","Reinforcement Learning", "Deep Learning", "Constrained Programming"]
 ---

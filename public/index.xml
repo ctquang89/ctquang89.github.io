@@ -6,7 +6,7 @@
     <description>Recent content in Home on Quang Chiem</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jul 2021 14:09:10 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Return Forecasts using Conditional Autoconders</title>
@@ -86,6 +86,13 @@
       <description>&lt;p&gt;While adding &lt;em&gt;Structured Data&lt;/em&gt; to a client&amp;rsquo;s website I found some example JSON that was invalid.  Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Typesetting - AI-driven solution to automate the labour-intensive process of newspaper article arrangement</title>
+      <link>http://localhost:1313/blog/typesetting/</link>
+      <pubDate>Thu, 01 Jul 2021 14:09:10 +0000</pubDate>
+      <guid>http://localhost:1313/blog/typesetting/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;The typesetting project aimed to create an AI-driven solution to automate the labor-intensive process of newspaper article arrangement, addressing several critical challenges. Manual typesetting is notoriously time-consuming and stressful, often leading to inconsistent layouts and potential human errors. These issues not only hinder productivity but also limit the ability to explore diverse solutions for optimal newspaper design. By leveraging Assistive AI, this project seeks to significantly reduce the manual workload, enhance operational efficiency, and ensure consistent output quality. The successful application of this technology in typesetting showcases its potential transferability to other industries facing similar manual challenges, offering a scalable solution for improving efficiency and reducing human error across various fields.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>BOSH release for Bamboo &amp; Remote Agents</title>
       <link>http://localhost:1313/projects/creations/bosh-agents/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
@@ -119,13 +126,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/search/</guid>
       <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;&#xA;&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;&#xA;&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;&#xA;&lt;p&gt;This implementation uses Fusejs, jquery and mark.js&lt;/p&gt;&#xA;&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;&#xA;&lt;p&gt;Search  depends on additional output content type of JSON in config.toml&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[outputs]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;searching-additional-fileds&#34;&gt;Searching additional fileds&lt;/h2&gt;&#xA;&lt;p&gt;To search additional fields defined in front matter, you must add it in 2 places.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Typesetting - AI-driven solution to automate the labour-intensive process of newspaper article arrangement</title>
-      <link>http://localhost:1313/blog/typesetting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/typesetting/</guid>
-      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;The typesetting project aimed to create an AI-driven solution to automate the labor-intensive process of newspaper article arrangement, addressing several critical challenges. Manual typesetting is notoriously time-consuming and stressful, often leading to inconsistent layouts and potential human errors. These issues not only hinder productivity but also limit the ability to explore diverse solutions for optimal newspaper design. By leveraging Assistive AI, this project seeks to significantly reduce the manual workload, enhance operational efficiency, and ensure consistent output quality. The successful application of this technology in typesetting showcases its potential transferability to other industries facing similar manual challenges, offering a scalable solution for improving efficiency and reducing human error across various fields.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
