@@ -1,10 +1,26 @@
-<div class="resume-item d-flex flex-row mb-5">
-    <div class="publication-content mr-auto">
-      <h3 class="mb-0"><a href="{{ .Permalink }}">{{ .Params.title }}</a></h3>
-      <div>{{ .Summary | safeHTML }}</div>
-      <div>{{ partial "advtags" . }}</div>
+<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="{{ .Scratch.Get "sectionId" }}">
+  <div class="my-auto" id="blog-content">
+
+    <div class="mb-3 d-flex flex-row justify-content-between">
+    	<h2 class="mb-0"><span class="text-primary">{{ .Title }}</span></h2>
     </div>
-    <div class="resume-date text-md-right flex-col">
-      <span class="text-primary">{{ .Date.Format "January 2, 2006" }}</span>
-    </div>
+  
+    {{ $featuredPages := where .Pages "Params.featured" true }}
+    {{ range $featuredPages }}
+      <li class="d-flex mb-4">
+          <div class="blog-body" style="margin-bottom: 10px;">
+            <h3 class="mb-4"><a href="{{ .Permalink }}">{{ .Params.title }}</a></h3>
+            <div>{{ .Params.description | safeHTML }}</div>
+            <p style="text-align:right;"><a href="{{.Permalink}}">Read more..</a></p>
+            <p>{{ partial "techtags" . }}</p>
+          </div>
+          
+          <div class="blog-img" style="width:400px; padding: 50px">
+            {{ with .Params.image }}
+              <img src="{{ . }}" style="max-height:400px;max-width:300px;"/>
+            {{ end }}
+          </div>
+      </li>{{ end }}
+      
   </div>
+</section>

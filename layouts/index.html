@@ -3,7 +3,7 @@
    {{ partial "about.html" .}}
    {{ $pub := slice "creations" "contributions"}}
    {{ $projects := slice "lprojects"}}
-   {{ $sections := slice "publications" "blog" }}
+   {{ $sections := slice "blog" }}
    {{ $site := .Site }}
    {{ range .Site.Params.sections }}
         {{ $sectionName := . }}
@@ -20,7 +20,8 @@
         {{ else if in $sections . }}
             {{ with $site.GetPage "section" . }}
                {{ .Scratch.Set "sectionId" $sectionName }} 
-               {{ partial "sectionSummary" . }}
+               {{ partial "blogSummary" . }}
+               <!-- {{ partial "sectionSummary" . }} -->
             {{ end }}
         {{ else }}
             {{ partial (printf "portfolio/%s" . ) $ }}

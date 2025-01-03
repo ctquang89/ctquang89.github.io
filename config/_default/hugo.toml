@@ -24,6 +24,9 @@ showContact = false
 sections = ["skills", "lprojects", "experience", "education", "blog"]
 custom_css = ["css/custom.css"]
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params.google]
 
 #[params.google.analytics]

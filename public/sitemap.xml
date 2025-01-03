@@ -6,6 +6,10 @@
     <lastmod>2020-01-07T16:47:30+00:00</lastmod>
     <priority>0.6</priority>
   </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/projects/creations/</loc>
     <lastmod>2020-01-07T15:00:28+00:00</lastmod>
     <priority>0.5</priority>
@@ -54,9 +58,6 @@
     <lastmod>2020-01-07T17:08:21+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2021-07-01T14:09:10+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/constrained-programming/</loc>
     <lastmod>2021-07-01T14:09:10+00:00</lastmod>
   </url><url>
@@ -72,10 +73,10 @@
     <loc>http://localhost:1313/tags/reinforcement-learning/</loc>
     <lastmod>2021-07-01T14:09:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/blog/typesetting/</loc>
     <lastmod>2021-07-01T14:09:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/typesetting/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2021-07-01T14:09:10+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/docker/</loc>
@@ -143,18 +144,6 @@
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/force-ssl/</loc>
-    <lastmod>2009-01-01T14:09:10+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/redirect/</loc>
-    <lastmod>2009-01-01T14:09:10+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/rewrite/</loc>
-    <lastmod>2009-01-01T14:09:10+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ssl/</loc>
-    <lastmod>2009-01-01T14:09:10+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/web-development/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/.net/</loc>

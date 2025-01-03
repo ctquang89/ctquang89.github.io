@@ -2,7 +2,10 @@
 title: 'Forcing Visits to use SSL'
 date: Thu, 01 Jan 2009 14:09:10 +0000
 draft: false
-tags: [apache, apache, redirect, rewrite, ssl, web development]
+tags: ['apache']
+image: "https://info.japantimes.co.jp/archives/images/large/historic03-02.jpg"
+featured: true
+description: "The primary objective of this project was to develop an AI-driven assistive tool for Japanese newspapers. This tool focuses on automating the placement of content on newspaper pages, thereby enhancing the efficiency and optimizing the quality of the layout design process within the Japanese market."
 ---
 
 Intro
