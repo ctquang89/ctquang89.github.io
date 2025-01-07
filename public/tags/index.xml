@@ -163,10 +163,38 @@
       <description></description>
     </item>
     <item>
-      <title>Apache</title>
-      <link>http://localhost:1313/tags/apache/</link>
+      <title>AWS</title>
+      <link>http://localhost:1313/tags/aws/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>http://localhost:1313/tags/apache/</guid>
+      <guid>http://localhost:1313/tags/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Vision</title>
+      <link>http://localhost:1313/tags/computer-vision/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>http://localhost:1313/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GenAI</title>
+      <link>http://localhost:1313/tags/genai/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>http://localhost:1313/tags/genai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gitlab</title>
+      <link>http://localhost:1313/tags/gitlab/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gitlab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Weather</title>
+      <link>http://localhost:1313/tags/weather/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>http://localhost:1313/tags/weather/</guid>
       <description></description>
     </item>
     <item>
@@ -181,13 +209,6 @@
       <link>http://localhost:1313/tags/atlassian-developer-ecosystem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/atlassian-developer-ecosystem/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AWS</title>
-      <link>http://localhost:1313/tags/aws/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/aws/</guid>
       <description></description>
     </item>
     <item>
@@ -212,13 +233,6 @@
       <description></description>
     </item>
     <item>
-      <title>Computer Vision</title>
-      <link>http://localhost:1313/tags/computer-vision/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Confluence</title>
       <link>http://localhost:1313/tags/confluence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -230,20 +244,6 @@
       <link>http://localhost:1313/tags/finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/finance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>GenAI</title>
-      <link>http://localhost:1313/tags/genai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/genai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gitlab</title>
-      <link>http://localhost:1313/tags/gitlab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gitlab/</guid>
       <description></description>
     </item>
     <item>

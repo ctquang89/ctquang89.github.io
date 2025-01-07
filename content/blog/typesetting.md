@@ -1,6 +1,6 @@
 ---
 title: 'Revolutionizing Newspaper Design: How AI is Automating Typesetting'
-image: "https://info.japantimes.co.jp/archives/images/large/historic03-02.jpg"
+image: "/images/ts/ts_icon.gif"
 date: Thu, 01 Jul 2021 14:09:10 +0000
 draft: false
 tags: ["Python","Pytorch","Reinforcement Learning", "Deep Learning", "Constrained Programming"]
@@ -14,7 +14,7 @@ description: "The typesetting project aimed to create an AI-driven solution to a
 
 <div style="text-align:center">
     <a href="#demo"> 
-        <button style="color:red">See demonstration !!!</button> 
+        <button class="button-56" style="color:red">See demonstration !!!</button> 
     </a>
 </div>
 

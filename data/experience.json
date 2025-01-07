@@ -1,8 +1,8 @@
 [
     {
-        "role":"Data Scientist",
+        "role":"Lead Data Scientist",
         "company":"MTI Technology",
-        "summary":"I spearheaded the development of a tool tailored to support typesetting operations for newspapers in Japan. Additionally, I conducted extensive research to devise a Short-term Hail Forecast for clients across diverse sectors, including the MS&AI insurance group and car dealerships. In parallel, I provided mentorship to junior and mid-level data scientists, overseeing project management and facilitating the onboarding process for new project initiatives and technology stacks.",
+        "summary":" ● Lead data strategy to identify and analyze new datasets, develop signal processing algorithms, fueling the development of machine learning models and build AI-based systems to enhance MTI's weather services (e.g., Hail forecast system) and automate labour-intensive processes like Japanese article arrangement, Typesetting (patented in Japan) and AI-enhanced verbal medical record systems.<br /> ● Collaborate with software developers and data scientists to deploy predictive models into production environments and construct system testing. <br> ● Design and implement algorithms to mine large-scale datasets, conducting error analysis and data cleaning to support market analysis (e.g., Market Insights). <br> ● Coordinate with stakeholders to translate business objectives into actionable data science tasks, perform project planning and communicate findings and recommendations. <br> ● Mentor and guide junior data scientists, fostering their professional growth and ensuring the high quality and consistency of their work.",
         "range":"March 2020 - Present"
     },
     {
@@ -13,13 +13,7 @@
     {
         "role":"Research Assistant",
         "company":"Royal Melbourne Institute of Technology",
-        "summary":"Investigated the possibility of using 3D to 2D mapping for a 3D classifier and evaluated a hybrid two-stages recognition system for pointCloud objects.",
+        "summary":"● Collecting and analyzing data <br>  ● Conducting literature reviews <br> ● Assisting with project development <br> ● Preparing research documents <br> ● Assisting with administration",
         "range":"May 2019 - November 2019"
-    },
-    {
-        "role":"Research Assistant",
-        "company":"Royal Melbourne Institute of Technology",
-        "summary":"Implementd and evaluated ternary FIR filter in both FPGA and ASIC.",
-        "range":"December 2015 - May 2016"
     }
 ]

@@ -1,6 +1,8 @@
 <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
 
 <section class="resume-section p-3 p-lg-5 d-flex d-column" id="contact">
+  {{ $styles := resources.Get "css/custom.css" | minify }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
   <div class="my-auto">
     <h2 class="mb-0">Let's Get in touch !!! </h2>
     <h4 class="multipleStrings">Drop me a line, maybe?</h4>
@@ -23,11 +25,12 @@
 
           <div class="form-group">
             <label for="message">Your message for me *</label>
-            <textarea rows="4" name="message" id="message" required="required" class="form-control"></textarea>
+            <textarea rows="8" cols="60" name="message" id="message" required="required" class="form-control"></textarea>
           </div>
 
           <div>
-            <input type="submit" value="Send" class="btn btn-outline-primary">
+            <!-- <input type="submit" value="Send" class="btn btn-outline-primary"> -->
+            <center><input type="submit" value="Send" class="btn btn-outline-primary button-56"></center>
           </div>
         </form>
         {{end}}
@@ -35,19 +38,27 @@
       </div>
 
     </div>
+    <hr style="max-width:100%"/>
     <ul class="fa-ul">
       <li>
-        <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true" style="color:red"></i>
+        <div style="vertical-align:top; display:inline-block;margin-top:-10px">
+          <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true" style="color:#B16218;"></i>
+        </div>
+        
         <span id="person-email"><a class="subheading mb-5" href="mailto:{{ substr .Site.Params.email 0 5}}-remove-{{ substr .Site.Params.email 5 }}"
         > {{ substr .Site.Params.email 0}}</a></span>
       </li>
       <li>
-        <i class="fa-li fas fa-phone fa-2x" aria-hidden="true" style="color:red"></i>
+        <div style="vertical-align:top; display:inline-block;margin-top:-10px">
+          <i class="fa-li fas fa-phone fa-2x" aria-hidden="true" style="color:#B16218; vertical-align:middle"></i>
+        </div>
         <span class="subheading mb-5" id="person-telephone">{{ .Site.Params.phone }}</span>
       
       </li>
       <li>
-        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true" style="color:red"></i>
+        <div style="vertical-align:top; display:inline-block;margin-top:-10px">
+          <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true" style="color:#B16218; vertical-align:middle"></i>
+        </div>
         <span class="subheading mb-5" id="person-address">{{ .Site.Params.address }}</span>
       </li>
       

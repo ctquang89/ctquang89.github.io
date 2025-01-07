@@ -3,7 +3,7 @@ title: 'Predicting the Unpredictable: AI-Powered Weather Forecasting for Severe 
 date: Thu, 01 Jan 2009 14:09:10 +0000
 draft: false
 tags: ["Python","Pytorch","GenAI","Computer Vision","AWS", "Gitlab", "Weather"]
-image: "https://info.japantimes.co.jp/archives/images/large/historic03-02.jpg"
+image: "/images/weather/weather_icon.gif"
 featured: true
 description: "Japan, a nation renowned for its breathtaking natural beauty, also faces the constant threat of severe weather events, from typhoons and earthquakes to torrential rains and snowstorms. These disasters can cause significant damage to property, infrastructure, and, most importantly, human life. In such a dynamic environment, timely and accurate weather information is crucial for public safety and minimizing the impact of these events."
 ---
@@ -20,8 +20,9 @@ description: "Japan, a nation renowned for its breathtaking natural beauty, also
 
 <div style="text-align:center">
     <a href="#demo"> 
-        <button style="color:red">See demonstration !!!</button> 
+        <button class="button" style="color:red">See demonstration !!!</button> 
     </a>
+    
 </div>
 
 I. Key benefits of this AI-powered weather prediction system

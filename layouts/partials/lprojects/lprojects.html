@@ -5,8 +5,7 @@
     <h2 class="mb-5">{{ .Title }}</h2>
     {{ .Content }}
 
-    <!-- <div class="resume-item d-flex flex-column flex-md-row mb-3"> -->
-    <button class="btn btn-outline-primary pull-left toggle-view"> <i class="fa fa-th-large"></i> Toggle View </button>
+    <!-- <button class="toggle-view button-56"> <i class="fa fa-th-large"></i> Toggle View </button> -->
       
     <!-- Rounded switch -->
     <!-- <label class="switch">
@@ -15,18 +14,20 @@
     </label> -->
 
     
-    <div id="list-visible" class="list-view" style="display:none">
+    <!-- <div id="list-visible" class="list-view" style="display:flex">
       <div class="my-auto" id="projects-content">      
         {{ $featuredPages := where .Pages "Params.featured" true }}
         {{ range $featuredPages }}
         {{ end }}
       </div>
-    </div>
+    </div> -->
 
     <div id="grid-visible" class="grid-view">
       <center>
-        <button class="button three-trigger btn-outline-primary">Big</button>
-        <button class="button four-trigger btn-outline-primary">Small</button>
+        <!-- <button class="button three-trigger btn-outline-primary">Big</button>
+        <button class="button four-trigger btn-outline-primary">Small</button> -->
+        <button class="three-trigger button-56"></i>Big</button>
+        <button class="four-trigger button-56"></i>Small</button>
       </center>
       <br>
 
