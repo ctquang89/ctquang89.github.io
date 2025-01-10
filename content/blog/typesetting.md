@@ -10,11 +10,13 @@ description: "The typesetting project aimed to create an AI-driven solution to a
 
 <div style="text-align:justify">
 &emsp; The newsroom is a whirlwind of activity, with editors juggling deadlines, reporters chasing stories, and designers wrestling with stacks of paper and design software. Among these challenges, the process of typesetting – arranging articles, images, and advertisements on the page – stands out as a particularly time-consuming and labor-intensive task. But what if this critical step could be streamlined and enhanced with the power of artificial intelligence?
+
+&emsp; This post provide general information about an AI-based Typesetting system that I research and develop for MTI.
 </div>
 
 <div style="text-align:center">
     <a href="#demo"> 
-        <button class="button-56" style="color:red">See demonstration !!!</button> 
+        <button class="button-56" style="color:red"><img src="/images/down-arrow.gif" style="width:30px;height:30px" />See demonstration !!!</button> 
     </a>
 </div>
 

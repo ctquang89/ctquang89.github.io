@@ -34,13 +34,13 @@
     {{ if $.Scratch.Get "previous" }}
         <a href="{{ $.Scratch.Get "previous" }}" class="nowrap nav-prev" aria-label="Previous entry">
 	        <!-- <img src="/images/uploads/angle.svg" alt="Previous entry" /> -->
-            <button class="button-56" style="color:rgb(21, 0, 255)"> << Previous Post</button>
+            <button class="button-56" style="color:rgb(21, 0, 255)"><img src="/images/fast-backward.gif" style="width:30px;height:30px" />Previous Post</button>
 	    </a>
     {{ else }}
         {{range last 1 $currentSection }}
             <a href="{{ .Permalink }}" class="nowrap nav-prev" aria-label="Previous entry">
 	            <!-- <img src="/images/uploads/angle.svg" alt="Previous entry" /> -->
-                <button class="button-56" style="color:rgb(21, 0, 255)"> << Previous Post</button>
+                <button class="button-56" style="color:rgb(21, 0, 255)"> <img src="/images/fast-backward.gif" style="width:30px;height:30px" /> Previous Post</button>
             </a>
         {{ end }}
     {{ end }}
@@ -50,13 +50,13 @@
     {{ if $.Scratch.Get "next" }}
         <a href="{{ $.Scratch.Get "next" }}" class="nowrap nav-next" aria-label="Next entry">
 	        <!-- <img src="/images/uploads/angle.svg" alt="Next entry" /> -->
-            <button class="button-56" style="color:rgb(21, 0, 255)"> Next Post >> </button>
+            <button class="button-56" style="color:rgb(21, 0, 255)"> Next Post <img src="/images/fast-forward.gif" style="width:30px;height:30px" /> </button>
         </a>
     {{ else }}
         {{ range first 1 $currentSection }}
             <a href="{{ .Permalink }}" class="nowrap nav-next" aria-label="Next entry">
 	            <!-- <img src="/images/uploads/angle.svg" alt="Next entry" /> -->
-                <button class="button-56" style="color:rgb(21, 0, 255)"> Next Post >> </button>
+                <button class="button-56" style="color:rgb(21, 0, 255)"> Next Post <img src="/images/fast-forward.gif" style="width:30px;height:30px" /> </button>
             </a>
         {{ end }}
     {{ end }}

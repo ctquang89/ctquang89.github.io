@@ -1,6 +1,7 @@
 ---
 title: "Recommendations System"
 link: ""
+demo_link: ""
 image: "https://www.mdpi.com/applsci/applsci-10-05510/article_deploy/html/images/applsci-10-05510-g001.png"
 description: "A system that suggests articles to users based on their past interactions with the platform using content-based filtering."
 featured: true
@@ -15,18 +16,18 @@ sitemap:
 
 ![Recommendation System](https://www.mdpi.com/applsci/applsci-10-05510/article_deploy/html/images/applsci-10-05510-g001.png "Recommendation System")
 
-**Relevance to the Business:**
+### **Relevance to the Business:**
 - Enhance customer experience and engagement by providing tailored product or content suggestions.
 
-**Accomplishments:**
+### **Accomplishments:**
 - Implemented collaborative filtering and content-based filtering techniques to generate personalized recommendations.
 
-**Transferable Skills:**
+### **Transferable Skills:**
 - Proficient in machine learning algorithms  including standard algorithms for Regression and Classification, Deep Learning constructs (RNN, CNN, Auto Encoders, GANs) and AI systems such as Voice to Text, NLP and Recommender systems. 
 - Understanding ML systems using Spark libraries such as ML Lib, Spark SQL.
 
-**Responsibilities:**
+### **Responsibilities:**
 - Developed recommender systems for product recommendations.
 
-**Challenges and Difficulties:**
+### **Challenges and Difficulties:**
 - Navigated challenges related to dataset quality, model convergence, and computational resource management. 

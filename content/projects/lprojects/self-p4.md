@@ -1,7 +1,8 @@
 ---
 title: "Question Answering System"
 link: ""
-image: "https://machinatorium.files.wordpress.com/2013/10/man-vs-machine.gif"
+demo_link: ""
+image: "https://static.vecteezy.com/system/resources/previews/023/784/016/non_2x/a-man-asks-a-question-to-artificial-intelligence-bot-chatbot-in-the-form-of-a-cute-robot-answers-questions-ai-and-human-characters-using-and-chatting-messanger-neural-network-conversation-vector.jpg"
 description: "Build an encoder–decoder network that generates a suitable question, given one of the candidate answers."
 featured: true
 tags: ["Python","Tensorflow2", "GenAI", "NLP"]
@@ -15,17 +16,17 @@ sitemap:
 
 ![Question Answering System](https://lilianweng.github.io/posts/2020-10-29-odqa/QA-summary.png "Question Answering System")
 
-**Relevance to the Business:**
+### **Relevance to the Business:**
 - Leveraged my expertise in deep learning and Natural Language Processing (NLP) to develop tools for enhancing efficient information retrieval in today's data-driven environment. 
 - Targeted at business entities who improve customer support and productivity by automating the extraction of valuable insights from their vast databases.
 
-**Accomplishments:**
+### **Accomplishments:**
 - Delivered an attractive Proof of Concept (PoC) to MTI and some private clients, showcasing practical applications.
 
-**Transferable Skills:**
+### **Transferable Skills:**
 - Solid Understanding of Deep Learning models for NLP, 
 - Skilled in Python programming and utilization of NLP libraries such as spaCy, NLTK, transfomer models from hugging face.
 
-**Responsibilities:**
+### **Responsibilities:**
 - Developed a prototype for Q&A systems, from conceptualization to implementation.
 
