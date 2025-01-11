@@ -19,7 +19,7 @@ description: "The typesetting project aimed to create an AI-driven solution to a
         <button class="button-56" style="color:red"><img src="/images/down-arrow.gif" style="width:30px;height:30px" />See demonstration !!!</button> 
     </a>
 </div>
-
+<hr/>
 
 I. The Pain Points of Traditional Typesetting
 -----
@@ -27,7 +27,6 @@ I. The Pain Points of Traditional Typesetting
 &emsp; Traditionally, typesetting is a manual and often tedious process. Designers meticulously arrange elements on the page, considering factors like headline size, image placement, and column widths. This meticulous work is prone to human error, leading to inconsistencies in layout and potential for missed deadlines. The pressure to meet tight deadlines adds to the stress, hindering creativity and the ability to explore diverse and innovative design solutions. The process is illustrated in the Figure below
 
 Typical typesetting process used in newspaper company
-</div>
 
 {{< figure src="/images/ts/TS_manual_process_0.png" width=70%  title="Fig 1. Current Manual Process 1" >}}
 {{< figure src="/images/ts/TS_manual_process_1.jpeg" width=70% title="Fig 2. Manual Process - Making rough layout" >}}
@@ -35,6 +34,8 @@ Typical typesetting process used in newspaper company
 
 
 The process last about 12 hours and it is very stressful.
+</div>
+<hr/>
 
 II. Solutions: Automating the Art of Layout
 -----
@@ -52,7 +53,7 @@ II. Solutions: Automating the Art of Layout
 {{< figure src="/images/ts/TS_proposed_auto_process_2.jpeg" width=70%  title="Fig 5. The proposed typesetting (left) process and visualization of the proposed framework (right)" >}}
 
 {{< figure src="/images/ts/TS_proposed_auto_process_3.jpeg" width=70%  title="Fig 6. Visualization of states of the proposed framework" >}}
-
+<hr/>
 
 III. The Benefits Speak for Themselves
 -----
@@ -64,6 +65,7 @@ III. The Benefits Speak for Themselves
 * **Improved Consistency:** AI helps ensure consistent layouts across different editions and publications, enhancing brand identity.
 * **Enhanced Creativity:** Designers are empowered to explore a wider range of layout options and experiment with innovative design concepts.
 </div>
+<hr/>
 
 IV. Beyond Typesetting: A Catalyst for Innovation
 -----
@@ -75,6 +77,7 @@ IV. Beyond Typesetting: A Catalyst for Innovation
 * **Website and App Design:** Assist in the creation of visually appealing and user-friendly interfaces.
 * **Industrial Manufacturing and Production:** Optimize production processes and improve efficiency in various manufacturing settings.
 </div>
+<hr/>
 
 V. The Future of AI in Design
 -----
@@ -83,6 +86,7 @@ V. The Future of AI in Design
 
 This blog post provides a glimpse into the transformative power of AI in the field of newspaper design. By embracing these innovative technologies, the publishing industry can not only improve its efficiency but also unlock new levels of creativity and innovation in the years to come.
 </div>
+<hr/>
 
 VI. Demonstrations <a id="demo"></a>
 -----

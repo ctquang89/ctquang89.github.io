@@ -313,6 +313,7 @@ label {
 }
 
 .img-responsive {
+  height: 200px;
   margin: 0 auto;
 }
 /* Responsive layout - makes a two column-layout instead of four columns */
