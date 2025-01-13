@@ -2,14 +2,14 @@
 title: "Typesetting – AI-based Newspaper Placement Tool for the Japanese market."
 link: ""
 demo_link: "/blog/typesetting/"
-image: "https://info.japantimes.co.jp/archives/images/large/historic03-02.jpg"
+image: "/images/ts/ts_icon_static.png"
 description: "This project aimed to develop a sophisticated tool for Japanese newspapers that automates the placement of content on the pages. The goal was to enhance the efficiency and quality of newspaper layout design in the Japanese market."
 featured: true
-tags: ["Python","Pytorch","Reinforcement Learning","AWS",".NET", "Gitlab"]
+tags: ["AI", "Machine Learning", "Reinforcement Learning", "Constraint Optimization"]
 fact: "Improve productivity and speed of typesetting tasks perform by human typesetters in Japan"
-weight: 100
+weight: 1
 sitemap: 
-    priority : 0.8
+    priority : 1
 ---
 
 ### **Relevance to the Business:**

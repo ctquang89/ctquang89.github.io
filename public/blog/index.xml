@@ -17,6 +17,13 @@
     </item>
     <item>
       <title>Predicting the Unpredictable: AI-Powered Weather Forecasting for Hailstorm in Japan</title>
+      <link>http://localhost:1313/blog/graph_recom/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>http://localhost:1313/blog/graph_recom/</guid>
+      <description>&lt;div style=&#34;text-align:justify&#34;&gt;&#xA;&amp;emsp; The skies over Japan often paint a dramatic picture, with thunderstorms booming, strong winds blowing, and hailstones crashing onto rooftops and fields. During this severe weather, communities prepare for the worst, farmers try to save their crops, and emergency services get ready to help. However, predicting hail – a weather event that can cause serious damage to people and property – has always been a difficult and uncertain task. But what if this challenge could be tackled with precision and foresight using the power of Artificial Intelligence?&#xA;&lt;p&gt;  This post provide general information of a Hail Forecast system used in &lt;a href=&#34;https://www.mti.co.jp/?p=33519&#34;&gt;Hail Alert Service in Japan provided by MTI &lt;/a&gt; By harnessing state-of-the-art machine learning algorithms and analyzing extensive historical weather radar data, this system aims to:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Predicting the Unpredictable: AI-Powered Weather Forecasting for Hailstorm in Japan</title>
       <link>http://localhost:1313/blog/weather/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       <guid>http://localhost:1313/blog/weather/</guid>

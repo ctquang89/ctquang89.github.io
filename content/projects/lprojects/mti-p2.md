@@ -1,15 +1,15 @@
 ---
-title: "Hailstorm Nowcast Using AI"
+title: "Hailstorm Forecast Using AI"
 link: ""
 demo_link: "/blog/weather/"
-image: "https://www.rainviewer.com/images/posts/2023-03-20-how-does-hail-form/hail_08.jpg"
+image: "/images/weather/weather_icon_static.png"
 description: "In Japan, where damage from weather disasters continues unabated, there is a need for weather information service providers to promptly notify the danger of unpredictable abnormal weather and encourage consumers to take swift avoidance actions.This project aimed to develop a system provide early detection for extreme weather."
 featured: true
-tags: ["Python","Pytorch","GenAI","Computer Vision","AWS", "Gitlab"]
+tags: ["AI", "Machine Learning", "Deep Learning", "Weather"]
 fact: "Our forecast quality provided by AI-based system is proven to be better than Japan Meteorological Agency(JMA)"
-weight: 100
+weight: 2
 sitemap: 
-    priority : 0.8
+    priority : 1
 ---
 
 ### **Relevance to the Business:**

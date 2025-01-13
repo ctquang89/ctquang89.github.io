@@ -7,7 +7,7 @@ description: "A system that suggests articles to users based on their past inter
 featured: true
 tags: ["Python","Tensorflow2","Neo4j"]
 fact: ""
-weight: 100
+weight: 3
 sitemap: 
     priority : 1.0
 ---

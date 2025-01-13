@@ -5,7 +5,7 @@ demo_link: ""
 image: "https://static.vecteezy.com/system/resources/previews/023/784/016/non_2x/a-man-asks-a-question-to-artificial-intelligence-bot-chatbot-in-the-form-of-a-cute-robot-answers-questions-ai-and-human-characters-using-and-chatting-messanger-neural-network-conversation-vector.jpg"
 description: "Build an encoder–decoder network that generates a suitable question, given one of the candidate answers."
 featured: true
-tags: ["Python","Tensorflow2", "GenAI", "NLP"]
+tags: ["AI", "Machine Learning", "Generative AI", "Natural Language Processing"]
 fact: ""
 weight: 100
 sitemap: 
