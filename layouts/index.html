@@ -4,9 +4,6 @@
    {{ $projects := slice "lprojects" }}
    {{ $sections := slice "blog"}}
    {{ $site := .Site }}
-   <!-- {{ range .Site.Params.custom_css -}}
-        <link rel="stylesheet" href="{{ . | absURL }}">
-    {{- end }} -->
    {{ range .Site.Params.sections }}
         {{ $sectionName := . }}
         {{ if in $pub . }}
@@ -23,7 +20,6 @@
             {{ with $site.GetPage "section" . }}
                {{ .Scratch.Set "sectionId" $sectionName }} 
                {{ partial "blogSummary" . }}
-               <!-- {{ partial "sectionSummary" . }} -->
             {{ end }}
         {{ else }}
             {{ with $site.GetPage "section" . }}
