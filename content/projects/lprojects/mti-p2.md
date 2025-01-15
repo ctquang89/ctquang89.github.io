@@ -11,6 +11,7 @@ weight: 2
 sitemap: 
     priority : 1
 ---
+<div style="text-align:justify">
 
 ### **Relevance to the Business:**
 - Leveraged my expertise in machine learning, deep learning, and data analytics to pioneer the development of an innovative AI-driven tool for short-term weather forecasting, with a specific focus on predicting hailstorms. 
@@ -40,3 +41,5 @@ sitemap:
 ### **Context:** 
 - Comprehensive background in deep learning and data analytics.
 - Commitment to projects with direct business relevance, contributing to industry advancements.
+
+</div>

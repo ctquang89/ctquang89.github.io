@@ -8,4 +8,4 @@ featured: true
 description: "Discover how personalized travel recommendation systems are revolutionizing the way we plan our trips! This project explores the cutting-edge use of graph-based techniques to analyze connections between destinations and traveler preferences. By leveraging user data, destination relationships, and travel themes, the system suggests ideal cities tailored to individual needs. From adventure seekers to luxury travelers, uncover how this innovative approach is reshaping the travel experience, making every journey more intuitive, engaging, and unforgettable."
 ---
 
-### COMING SOON
+![COMING SOON](/images/comming_soon.gif "COMMING SOON")

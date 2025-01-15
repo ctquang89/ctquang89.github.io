@@ -1,0 +1,52 @@
+<link rel="stylesheet" href="/assets/css/debugprint.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="certifications">
+    <div class="my-auto" id="certifications-content" > 
+      <h2 class="mb-5">{{ i18n "certifications" }}</h2>
+
+      <h3 class="mb-5"><i class="fa fa-cog fa-spin" style="font-size:20px;"></i>{{ " Academic Testamurs" }}</h3>
+      <div class="grid-container">
+        {{ $images := readDir "assets/images/testamurs" }}
+        {{ range $images }}
+          <div class="grid-item">
+          {{ if in (lower .Name) "png" }}
+          
+            {{ $image := resources.Get (print "images/testamurs/" .Name) }}
+            {{ with $image }}
+              {{ $thumbnail := $image.Filter (slice images.AutoOrient (images.Process "fit 1000x1000")) }}
+              {{ $full := $image.Filter (slice images.AutoOrient (images.Process "fit 1200x1200")) }}
+              {{ $color := index $thumbnail.Colors 2 | default "white" }}
+              <a class="grid-item" href="{{ $image.RelPermalink }}">
+                <img src="{{ $thumbnail.RelPermalink }}" width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" alt="ABC" />
+              </a>
+            {{ end }}
+          {{ end }}
+          </div>
+        {{ end }}
+      </div>
+
+      <hr>
+
+      <h3 class="mb-5"><i class="fa fa-cog fa-spin" style="font-size:20px;"></i>{{ " Professional Certificates" }}</h3>
+      <div class="grid-container">
+        {{ $images := readDir "assets/images/certifications" }}
+        {{ range $images }}
+          <div class="grid-item">
+          {{ if in (lower .Name) "png" }}
+          
+            {{ $image := resources.Get (print "images/certifications/" .Name) }}
+            {{ with $image }}
+              {{ $thumbnail := $image.Filter (slice images.AutoOrient (images.Process "fit 900x900")) }}
+              {{ $full := $image.Filter (slice images.AutoOrient (images.Process "fit 1200x1200")) }}
+              {{ $color := index $thumbnail.Colors 2 | default "white" }}
+              <a class="grid-item" href="{{ $image.RelPermalink }}">
+                <img src="{{ $thumbnail.RelPermalink }}" width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" alt="ABC" />
+              </a>
+            {{ end }}
+          {{ end }}
+          </div>
+        {{ end }}
+      </div>
+     </div>
+  </section>

@@ -11,6 +11,7 @@ weight: 80
 sitemap: 
     priority : 1.0
 ---
+<div style="text-align:justify">
 
 ### **Relevance to the Business:**
 - Leveraged my expertise in Deep Learning to develope model for analyzing how hidden factors, which could be related to economic conditions, investor behavior, or other mysterious influences, affect asset returns.
@@ -26,3 +27,4 @@ sitemap:
 ### **Responsibilities:**
 - Developed an autoencoder model for return forecast generation. Fine-tuning parameters for optimal performance.
 
+</div>

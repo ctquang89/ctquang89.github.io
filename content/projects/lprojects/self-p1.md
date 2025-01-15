@@ -16,6 +16,8 @@ sitemap:
 
 ![MarineGEO circle logo](https://ars.els-cdn.com/content/image/3-s2.0-B9780128243497000153-f08-34-9780128243497.jpg "MarineGEO logo")
 
+<div style="text-align:justify">
+
 ### **Relevance to the Business:**
 - Leveraged my expertise in Deep Learning and Gen AI to develop AI-based tools for generating avatar for individual creators and influencers. The tool offers a new medium to express creativity and help to maintain a consistent and engaging online presence.
 
@@ -32,6 +34,4 @@ sitemap:
 ### **Challenges and Difficulties:**
 - Navigated challenges related to dataset quality, model convergence, and computational resource management. 
 
-
-
-
+</div>

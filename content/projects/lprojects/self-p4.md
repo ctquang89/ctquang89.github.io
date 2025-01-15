@@ -16,6 +16,8 @@ sitemap:
 
 ![Question Answering System](https://lilianweng.github.io/posts/2020-10-29-odqa/QA-summary.png "Question Answering System")
 
+<div style="text-align:justify">
+
 ### **Relevance to the Business:**
 - Leveraged my expertise in deep learning and Natural Language Processing (NLP) to develop tools for enhancing efficient information retrieval in today's data-driven environment. 
 - Targeted at business entities who improve customer support and productivity by automating the extraction of valuable insights from their vast databases.
@@ -30,3 +32,4 @@ sitemap:
 ### **Responsibilities:**
 - Developed a prototype for Q&A systems, from conceptualization to implementation.
 
+</div>

@@ -72,6 +72,27 @@
       <description></description>
     </item>
     <item>
+      <title>LLM</title>
+      <link>http://localhost:1313/tags/llm/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>http://localhost:1313/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recommendation System</title>
+      <link>http://localhost:1313/tags/recommendation-system/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>http://localhost:1313/tags/recommendation-system/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Weather</title>
       <link>http://localhost:1313/tags/weather/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
@@ -79,17 +100,17 @@
       <description></description>
     </item>
     <item>
-      <title>.NET</title>
-      <link>http://localhost:1313/tags/.net/</link>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/.net/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
-      <title>C&#43;&#43;</title>
-      <link>http://localhost:1313/tags/c&#43;&#43;/</link>
+      <title>Constraint Optimization</title>
+      <link>http://localhost:1313/tags/constraint-optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/c&#43;&#43;/</guid>
+      <guid>http://localhost:1313/tags/constraint-optimization/</guid>
       <description></description>
     </item>
     <item>
@@ -100,38 +121,31 @@
       <description></description>
     </item>
     <item>
+      <title>Generative AI</title>
+      <link>http://localhost:1313/tags/generative-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/generative-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graph Machine Learning</title>
+      <link>http://localhost:1313/tags/graph-machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/graph-machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Natural Language Processing</title>
+      <link>http://localhost:1313/tags/natural-language-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Neo4j</title>
       <link>http://localhost:1313/tags/neo4j/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/neo4j/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NLP</title>
-      <link>http://localhost:1313/tags/nlp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nlp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Point Cloud</title>
-      <link>http://localhost:1313/tags/point-cloud/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/point-cloud/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pytorch Lightning</title>
-      <link>http://localhost:1313/tags/pytorch-lightning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pytorch-lightning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tensorflow2</title>
-      <link>http://localhost:1313/tags/tensorflow2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tensorflow2/</guid>
       <description></description>
     </item>
   </channel>

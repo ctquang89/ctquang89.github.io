@@ -1,8 +1,8 @@
 {{ define "main" }}
    {{ partial "about.html" .}}
    {{ $pub := slice "creations" "contributions"}}
-   {{ $projects := slice "lprojects"}}
-   {{ $sections := slice "blog" }}
+   {{ $projects := slice "lprojects" }}
+   {{ $sections := slice "blog"}}
    {{ $site := .Site }}
    <!-- {{ range .Site.Params.custom_css -}}
         <link rel="stylesheet" href="{{ . | absURL }}">
@@ -26,6 +26,9 @@
                <!-- {{ partial "sectionSummary" . }} -->
             {{ end }}
         {{ else }}
+            {{ with $site.GetPage "section" . }}
+                {{ .Scratch.Set "sectionId" . }}
+            {{ end }}
             {{ partial (printf "portfolio/%s" . ) $ }}
         {{ end }}
    {{ end }}

@@ -11,6 +11,7 @@ weight: 1
 sitemap: 
     priority : 1
 ---
+<div style="text-align:justify">
 
 ### **Relevance to the Business:**
 - Applied machine learning, deep learning and data analytics expertise to develop a sophisticated typesetting tool.
@@ -43,3 +44,5 @@ sitemap:
 ### **Context:** 
 - Comprehensive background in deep learning and data analytics.
 - Commitment to projects with direct business relevance, contributing to industry advancements.
+
+</div>

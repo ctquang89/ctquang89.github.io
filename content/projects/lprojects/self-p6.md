@@ -12,10 +12,9 @@ sitemap:
     priority : 1.0
 ---
 
-<!-- <img src="https://ars.els-cdn.com/content/image/3-s2.0-B9780128243497000153-f08-34-9780128243497.jpg" alt="MarineGEO circle logo" style="height: 100%; width:100%;"/> -->
-
 ![Graph Recommendation System for traval recommendations](/images/recom/graph_recom.png "Graph Recommendation System")
 
+<div style="text-align:justify">
 ### **Relevance to the Business:**
 - Enhanced customer experience and engagement by providing personalized travel recommendations, helping users discover ideal destinations tailored to their preferences and travel history.
 - Boosted user retention and business outcomes by delivering value-added services in the travel domain.
@@ -40,3 +39,5 @@ sitemap:
 - Addressed challenges such as dataset sparsity due to limited user feedback and travel history, requiring innovative techniques like graph augmentation and transfer learning.
 - Managed computational complexity and resource constraints when scaling graph algorithms to handle large, interconnected travel data.
 - Ensured recommendations were contextually relevant across diverse travel scenarios, balancing user preferences and business objectives.
+
+</div>

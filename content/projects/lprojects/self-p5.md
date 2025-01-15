@@ -11,6 +11,7 @@ weight: 100
 sitemap: 
     priority : 1.0
 ---
+<div style="text-align:justify">
 
 ### **Relevance to the Business:**
 - Leveraged my expertise in Computer Vision and Deep Learning to develop object detection algorithms using 3D cameras/sensors (3D Object Detection Algorithms). These advancements significantly enhance robustness, and capabilities of autonomous systems across wide ranges of applications and industries.
@@ -31,3 +32,4 @@ sitemap:
 ### **Responsibilities:**
 - Developed a prototype for 3D Object Detection systems, from conceptualization to implementation.
 
+</div>

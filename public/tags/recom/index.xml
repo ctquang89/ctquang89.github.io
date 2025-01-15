@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recom on Quang Chiem</title>
+    <link>http://localhost:1313/tags/recom/</link>
+    <description>Recent content in Recom on Quang Chiem</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/recom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recommendations System</title>
+      <link>http://localhost:1313/projects/lprojects/self-p3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lprojects/self-p3/</guid>
+      <description>&lt;!-- &lt;img src=&#34;https://ars.els-cdn.com/content/image/3-s2.0-B9780128243497000153-f08-34-9780128243497.jpg&#34; alt=&#34;MarineGEO circle logo&#34; style=&#34;height: 100%; width:100%;&#34;/&gt; --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/applsci/applsci-10-05510/article_deploy/html/images/applsci-10-05510-g001.png&#34; alt=&#34;Recommendation System&#34; title=&#34;Recommendation System&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;relevance-to-the-business&#34;&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Enhance customer experience and engagement by providing tailored product or personalized content suggestions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;accomplishments&#34;&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Implemented collaborative filtering and content-based filtering techniques to generate personalized recommendations.&lt;/li&gt;&#xA;&lt;li&gt;Led research and development of a prototype recommendation system based on Generative AI, integrating recommender models and Large Language Models (LLMs) to analyze user behavior and preferences, generating real-time, dynamic suggestions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;transferable-skills&#34;&gt;&lt;strong&gt;Transferable Skills:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Proficient in:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Machine Learning&lt;/li&gt;&#xA;&lt;li&gt;Generative AI&lt;/li&gt;&#xA;&lt;li&gt;Data Storage and Management (SQL, Elasticsearch)&lt;/li&gt;&#xA;&lt;li&gt;Structured Data Extraction (Unstructured.io, GPT-4)&lt;/li&gt;&#xA;&lt;li&gt;Data Preprocessing and Cleaning (Apache Spark, Pandas)&lt;/li&gt;&#xA;&lt;li&gt;LLM Development Frameworks (Langchain, Llamaindex, Hugging Face Transformers, Google Vertex AI, Amazon SageMaker)&lt;/li&gt;&#xA;&lt;li&gt;Vector Databases(Facebook AI Similarity Search - FAISS, Weaviate)&lt;/li&gt;&#xA;&lt;li&gt;Experimentation with AI Pipelines (MLFlow)&lt;/li&gt;&#xA;&lt;li&gt;Deployment and Scaling (Docker)&lt;/li&gt;&#xA;&lt;li&gt;GitLab CI&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;responsibilities&#34;&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed recommender systems for product recommendations.&lt;/li&gt;&#xA;&lt;li&gt;Led the research and development of a Generative AI-based recommendation system prototype, enhancing personalized suggestions through the integration of LLMs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;challenges-and-difficulties&#34;&gt;&lt;strong&gt;Challenges and Difficulties:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Navigated challenges related to dataset quality, model convergence, and computational resource management, particularly in scaling the integration of LLMs with recommender systems.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

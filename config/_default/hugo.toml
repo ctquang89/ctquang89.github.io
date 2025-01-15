@@ -21,8 +21,9 @@ aboutImage = "/images/Quang.jpg"
 showQr = true
 showContact = false
 #sections = ["skills","publications","creations","contributions","experience","education","blog"]
-sections = ["skills", "lprojects", "experience", "education", "blog"]
+sections = ["skills", "lprojects", "experience", "education", "blog", "certifications"]
 custom_css = ["/css/custom.css"]
+sourcePath = "/static/images"
 
 [markup.goldmark.renderer]
 unsafe= true
