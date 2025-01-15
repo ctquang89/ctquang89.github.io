@@ -97,7 +97,7 @@ Figure 3 show the pre-processed data (reflectivity - Z) for forecast pipeline
 &emsp; The forecasted results will be provided at a single timestamp, which is specified in the groundtruth dataset. The pipeline employs motion estimation over a sequence of 3 frames to generate predictions. In our experiment, we also account for the processing time of the Nowcast system to manage latency in data transmission. The forecasting model predicts the time at a 30-minute ahead window based on the following formula:
 
 ```
-<p align="center" />Predicted time [at t] = Forecast (observed_data [from t-50 to t-30])
+         Predicted time [at t] = Forecast (observed_data [from t-50 to t-30])
 ```
 
 &emsp; This approach ensures that the prediction incorporates relevant historical data within the specified range, helping to maintain accuracy despite the latency introduced by the system's processing time.

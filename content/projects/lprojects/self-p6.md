@@ -15,6 +15,7 @@ sitemap:
 ![Graph Recommendation System for traval recommendations](/images/recom/graph_recom.png "Graph Recommendation System")
 
 <div style="text-align:justify">
+
 ### **Relevance to the Business:**
 - Enhanced customer experience and engagement by providing personalized travel recommendations, helping users discover ideal destinations tailored to their preferences and travel history.
 - Boosted user retention and business outcomes by delivering value-added services in the travel domain.
