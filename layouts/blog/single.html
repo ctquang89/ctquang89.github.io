@@ -1,5 +1,14 @@
 {{ define "main" }}
-<!-- {{ partial "breadcrumbs" . }} -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VEF9FD750Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VEF9FD750Z');
+</script>
+
 <section class="resume-section p-3 p-lg-5 d-flex flex-column">
 	{{ $styles := resources.Get "css/custom.css" | minify }}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
