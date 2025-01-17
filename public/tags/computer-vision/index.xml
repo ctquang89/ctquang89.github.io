@@ -6,7 +6,6 @@
     <description>Recent content in Computer Vision on Chiem Tri Quang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2009 14:09:10 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Point Cloud Based 3D Object Detection</title>
@@ -14,20 +13,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/lprojects/self-p5/</guid>
       <description>&lt;div style=&#34;text-align:justify&#34;&gt;&#xA;&lt;h3 id=&#34;relevance-to-the-business&#34;&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Leveraged my expertise in Computer Vision and Deep Learning to develop object detection algorithms using 3D cameras/sensors (3D Object Detection Algorithms). These advancements significantly enhance robustness, and capabilities of autonomous systems across wide ranges of applications and industries.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Targeted applications could be&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Self-driving Cars: my algorithms help autonomous cars understand theirs surroundings&lt;/li&gt;&#xA;&lt;li&gt;Augmented Reality (AR) and Virtual Reality (VR): my algorithms facilitate the seamless integration of virtual objects into the physical world, elevating the user experience by providing realistic and immersive virtual environments.&lt;/li&gt;&#xA;&lt;li&gt;Industrial Automation: my algorithms can help to inspect components, detect infects automatically.&lt;/li&gt;&#xA;&lt;li&gt;Medical diagnosis: my algorithms can be used for tasks such as tumor detection and organ segmentation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;accomplishments&#34;&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Two publications about algorithms for 3D object detection.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;transferable-skills&#34;&gt;&lt;strong&gt;Transferable Skills:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solid Understanding of Computer Vision and Deep Learning models, 3D object modelling.&lt;/li&gt;&#xA;&lt;li&gt;Skilled in Python and C++ programming; and utilization of tensorflow, Computer Vision&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;responsibilities&#34;&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed a prototype for 3D Object Detection systems, from conceptualization to implementation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Building Personalized Travel Recommendation Systems: Leveraging User Preferences and Destination Connections</title>
-      <link>http://localhost:1313/blog/graph_recom/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>http://localhost:1313/blog/graph_recom/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/comming_soon.gif&#34; alt=&#34;COMING SOON&#34; title=&#34;COMMING SOON&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Predicting the Unpredictable: AI-Powered Weather Forecasting for Hailstorm in Japan</title>
-      <link>http://localhost:1313/blog/weather/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>http://localhost:1313/blog/weather/</guid>
-      <description>&lt;div style=&#34;text-align:justify&#34;&gt;&#xA;&amp;emsp; The skies over Japan often paint a dramatic picture, with thunderstorms booming, strong winds blowing, and hailstones crashing onto rooftops and fields. During this severe weather, communities prepare for the worst, farmers try to save their crops, and emergency services get ready to help. However, predicting hail – a weather event that can cause serious damage to people and property – has always been a difficult and uncertain task. But what if this challenge could be tackled with precision and foresight using the power of Artificial Intelligence?&#xA;&lt;p&gt;  This post provide general information of a Hail Forecast system used in &lt;a href=&#34;https://www.mti.co.jp/?p=33519&#34;&gt;Hail Alert Service in Japan provided by MTI &lt;/a&gt; By harnessing state-of-the-art machine learning algorithms and analyzing extensive historical weather radar data, this system aims to:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -9,25 +9,11 @@
     <lastBuildDate>Thu, 01 Jan 2009 14:09:10 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/genai/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Building Personalized Travel Recommendation Systems: Leveraging User Preferences and Destination Connections</title>
-      <link>http://localhost:1313/blog/graph_recom/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>http://localhost:1313/blog/graph_recom/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/comming_soon.gif&#34; alt=&#34;COMING SOON&#34; title=&#34;COMMING SOON&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Predicting the Unpredictable: AI-Powered Weather Forecasting for Hailstorm in Japan</title>
-      <link>http://localhost:1313/blog/weather/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>http://localhost:1313/blog/weather/</guid>
-      <description>&lt;div style=&#34;text-align:justify&#34;&gt;&#xA;&amp;emsp; The skies over Japan often paint a dramatic picture, with thunderstorms booming, strong winds blowing, and hailstones crashing onto rooftops and fields. During this severe weather, communities prepare for the worst, farmers try to save their crops, and emergency services get ready to help. However, predicting hail – a weather event that can cause serious damage to people and property – has always been a difficult and uncertain task. But what if this challenge could be tackled with precision and foresight using the power of Artificial Intelligence?&#xA;&lt;p&gt;  This post provide general information of a Hail Forecast system used in &lt;a href=&#34;https://www.mti.co.jp/?p=33519&#34;&gt;Hail Alert Service in Japan provided by MTI &lt;/a&gt; By harnessing state-of-the-art machine learning algorithms and analyzing extensive historical weather radar data, this system aims to:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Revolutionizing User Engagement: Real-Time Generative AI Recommendation System Boosts Conversion Rates and Customer Satisfaction</title>
+      <title>Revolutionizing Business User Engagement: Real-Time Generative AI Recommendation System Boosts Conversion Rates and  Satisfaction</title>
       <link>http://localhost:1313/blog/genai_recom/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       <guid>http://localhost:1313/blog/genai_recom/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/comming_soon.gif&#34; alt=&#34;COMING SOON&#34; title=&#34;COMMING SOON&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/recom/genai_recom.gif&#34; alt=&#34;Recommendation System Overview&#34; title=&#34;Recommendation System Overview&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;more-detaill-will-be&#34;&gt;More detaill will be&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/comming_soon.gif&#34; alt=&#34;COMING SOON&#34; title=&#34;COMMING SOON&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

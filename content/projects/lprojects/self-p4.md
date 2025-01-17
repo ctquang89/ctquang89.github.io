@@ -1,12 +1,33 @@
 ---
 title: "Question Answering System"
+lead: "In today’s data-driven world, retrieving the right information quickly is more crucial than ever. \"Question Answering System\" offers a cutting-edge solution for businesses looking to enhance customer support and productivity. This project focuses on developing tools that automate the extraction of valuable insights from vast databases, streamlining the information retrieval process. Learn how AI-powered question answering systems are revolutionizing the way businesses interact with data and how they can drive efficiency and growth in customer support." 
 link: ""
 demo_link: ""
 image: "https://static.vecteezy.com/system/resources/previews/023/784/016/non_2x/a-man-asks-a-question-to-artificial-intelligence-bot-chatbot-in-the-form-of-a-cute-robot-answers-questions-ai-and-human-characters-using-and-chatting-messanger-neural-network-conversation-vector.jpg"
 description: "Build an encoder–decoder network that generates a suitable question, given one of the candidate answers."
 featured: true
-tags: ["AI", "Machine Learning", "Generative AI", "Natural Language Processing"]
+tags: ["AI", "Machine Learning", "Generative AI", "Natural Language Processing", "Transformers"]
 fact: ""
+keywords:
+    - "AI Question Answering System"
+    - "Machine Learning for Information Retrieval"
+    - "Generative AI for Data Insights"
+    - "Natural Language Processing in Business"
+    - "Transformers for Question Answering"
+    - "Automated Information Retrieval with AI"
+    - "AI-Powered Customer Support Tools"
+    - "Improving Productivity with AI Systems"
+    - "Machine Learning Models for Customer Support"
+    - "Natural Language Processing in Data Extraction"
+    - "Transformers for Efficient Data Insights"
+    - "AI-Based Question Answering Solutions"
+    - "Business Automation with Generative AI"
+    - "Data-Driven Insights with Machine Learning"
+    - "AI Tools for Enhanced Customer Support"
+    - "Generative AI for Business Intelligence"
+    - "Machine Learning in Data-Driven Environments"
+    - "Natural Language Processing for Data Extraction"
+    - "Leveraging AI for Better Data Retrieval"
 weight: 100
 sitemap: 
     priority : 1.0

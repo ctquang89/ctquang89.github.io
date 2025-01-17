@@ -1,5 +1,6 @@
 ---
 title: "Generative AI Recommendation System"
+lead: "Imagine visiting an e-commerce platform where every product recommendation feels tailor-made just for you, as if the system truly understands your needs, desires, and habits. This isn’t science fiction—it’s the future of user engagement, powered by real-time generative AI. By harnessing the power of cutting-edge algorithms, this revolutionary recommendation system analyzes user behavior and preferences in real time, delivering dynamic suggestions that resonate on a personal level. The result? Skyrocketing conversion rates, happier customers, and a business poised for exponential growth. Welcome to the next era of personalized experiences."
 link: ""
 demo_link: ""
 image: "/images/recom/genai_recom.gif"
@@ -7,6 +8,27 @@ description: "This project involves the development of an advanced recommendatio
 featured: true
 tags: ["Machine Learning","Generative AI","Recommendation System", "LLM"]
 fact: ""
+keywords:
+    - "Real-Time Recommendation System"
+    - "Generative AI in E-commerce"
+    - "Personalized User Experiences"
+    - "Dynamic Suggestions"
+    - "AI-Driven Engagement"
+    - "User Behavior Analysis"
+    - "Customer Satisfaction"
+    - "Conversion Rate Optimization"
+    - "Business Growth with AI"
+    - "Advanced AI Algorithms"
+    - "Tailored Recommendations"
+    - "Predictive Analytics"
+    - "AI-Powered User Engagement"
+    - "Real-Time Personalization"
+    - "Generative AI Techniques"
+    - "Adaptive E-commerce Strategies"
+    - "Innovative Technology Solutions"
+    - "AI and Customer Retention"
+    - "Real-Time Data Processing"
+    - "Boosting Sales with AI"
 weight: 3
 sitemap: 
     priority : 1.0

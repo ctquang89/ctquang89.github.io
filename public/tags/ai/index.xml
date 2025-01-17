@@ -6,6 +6,7 @@
     <description>Recent content in AI on Chiem Tri Quang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2009 14:09:10 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Typesetting – AI-based Newspaper Placement Tool for the Japanese market.</title>
@@ -55,6 +56,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/lprojects/self-p4/</guid>
       <description>&lt;!-- &lt;img src=&#34;https://ars.els-cdn.com/content/image/3-s2.0-B9780128243497000153-f08-34-9780128243497.jpg&#34; alt=&#34;MarineGEO circle logo&#34; style=&#34;height: 100%; width:100%;&#34;/&gt; --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lilianweng.github.io/posts/2020-10-29-odqa/QA-summary.png&#34; alt=&#34;Question Answering System&#34; title=&#34;Question Answering System&#34;&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;text-align:justify&#34;&gt;&#xA;&lt;h3 id=&#34;relevance-to-the-business&#34;&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Leveraged my expertise in deep learning and Natural Language Processing (NLP) to develop tools for enhancing efficient information retrieval in today&amp;rsquo;s data-driven environment.&lt;/li&gt;&#xA;&lt;li&gt;Targeted at business entities who improve customer support and productivity by automating the extraction of valuable insights from their vast databases.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;accomplishments&#34;&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Delivered an attractive Proof of Concept (PoC) to MTI and some private clients, showcasing practical applications.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;transferable-skills&#34;&gt;&lt;strong&gt;Transferable Skills:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solid Understanding of Deep Learning models for NLP,&lt;/li&gt;&#xA;&lt;li&gt;Skilled in Python programming and utilization of NLP libraries such as spaCy, NLTK, transfomer models from hugging face.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;responsibilities&#34;&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed a prototype for Q&amp;amp;A systems, from conceptualization to implementation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Building Personalized Travel Recommendation Systems: Leveraging User Preferences and Destination Connections</title>
+      <link>http://localhost:1313/blog/graph_recom/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>http://localhost:1313/blog/graph_recom/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/comming_soon.gif&#34; alt=&#34;COMING SOON&#34; title=&#34;COMMING SOON&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Predicting the Unpredictable: AI-Powered Weather Forecasting for Hailstorm in Japan</title>
+      <link>http://localhost:1313/blog/weather/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>http://localhost:1313/blog/weather/</guid>
+      <description>&lt;div style=&#34;text-align:justify&#34;&gt;&#xA;&amp;emsp; The skies over Japan often paint a dramatic picture, with thunderstorms booming, strong winds blowing, and hailstones crashing onto rooftops and fields. During this severe weather, communities prepare for the worst, farmers try to save their crops, and emergency services get ready to help. However, predicting hail – a weather event that can cause serious damage to people and property – has always been a difficult and uncertain task. But what if this challenge could be tackled with precision and foresight using the power of Artificial Intelligence?&#xA;&lt;p&gt;  This post provide general information of a Hail Forecast system used in &lt;a href=&#34;https://www.mti.co.jp/?p=33519&#34;&gt;Hail Alert Service in Japan provided by MTI &lt;/a&gt; By harnessing state-of-the-art machine learning algorithms and analyzing extensive historical weather radar data, this system aims to:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

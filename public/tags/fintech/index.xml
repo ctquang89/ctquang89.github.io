@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fintech on Chiem Tri Quang</title>
+    <link>http://localhost:1313/tags/fintech/</link>
+    <description>Recent content in Fintech on Chiem Tri Quang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/fintech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Return Forecasts using Conditional Autoconders</title>
+      <link>http://localhost:1313/projects/lprojects/self-p2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lprojects/self-p2/</guid>
+      <description>&lt;div style=&#34;text-align:justify&#34;&gt;&#xA;&lt;h3 id=&#34;relevance-to-the-business&#34;&gt;&lt;strong&gt;Relevance to the Business:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Leveraged my expertise in Deep Learning to develope model for analyzing how hidden factors, which could be related to economic conditions, investor behavior, or other mysterious influences, affect asset returns.&lt;/li&gt;&#xA;&lt;li&gt;The key benefits include reducing pricing errors and ensuring that the developed pricing model adheres to economic principles.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;accomplishments&#34;&gt;&lt;strong&gt;Accomplishments:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed and deployed an autoencoder model to generate accurate return forecasts, optimizing investment strategies.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;transferable-skills&#34;&gt;&lt;strong&gt;Transferable Skills:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Proficient in financial data analysis and forecasting methodologies.&lt;/li&gt;&#xA;&lt;li&gt;Skilled in applying Machine Learning techniques, especially Deep Learning models, to tabular data analysis.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;responsibilities&#34;&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed an autoencoder model for return forecast generation. Fine-tuning parameters for optimal performance.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

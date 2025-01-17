@@ -1,11 +1,34 @@
 ---
 title: 'Revolutionizing Newspaper Design: How AI is Automating Typesetting'
+lead: "Imagine a world where the time-consuming, error-prone task of newspaper typesetting becomes effortless and precise. This is no longer a distant dream but a reality brought to life by an AI-driven solution that revolutionizes the typesetting process. By automating the arrangement of newspaper articles, this cutting-edge Assistive AI technology eliminates manual stress, ensures consistent layouts, and unlocks new possibilities for creative design. Beyond newspapers, this innovation offers a glimpse into a scalable future where similar manual challenges across industries can be tackled with unparalleled efficiency and accuracy. Discover how AI is redefining productivity, one layout at a time!"
 image: "/images/ts/ts_icon.gif"
 date: Thu, 01 Jul 2021 14:09:10 +0000
 draft: false
 tags: ["Python","Pytorch","Reinforcement Learning", "Deep Learning", "Constrained Programming"]
 featured: true
 description: "The typesetting project aimed to create an AI-driven solution to automate the labor-intensive process of newspaper article arrangement, addressing several critical challenges. Manual typesetting is notoriously time-consuming and stressful, often leading to inconsistent layouts and potential human errors. These issues not only hinder productivity but also limit the ability to explore diverse solutions for optimal newspaper design. By leveraging Assistive AI, this project seeks to significantly reduce the manual workload, enhance operational efficiency, and ensure consistent output quality. The successful application of this technology in typesetting showcases its potential transferability to other industries facing similar manual challenges, offering a scalable solution for improving efficiency and reducing human error across various fields."
+keywords:
+    - "AI-driven Typesetting"
+    - "Assistive AI in Newspaper Design"
+    - "Automating Typesetting Process"
+    - "Improving Newspaper Layout Efficiency"
+    - "AI for Manual Tasks Automation"
+    - "Reducing Human Error in Typesetting"
+    - "Typesetting Automation Technology"
+    - "AI Solutions for Newspaper Production"
+    - "Enhancing Operational Efficiency with AI"
+    - "AI for Creative Newspaper Design"
+    - "Scalable AI Solutions for Industries"
+    - "Transforming Manual Processes with AI"
+    - "Future of Typesetting Automation"
+    - "Efficient Newspaper Article Arrangement"
+    - "AI for Reducing Manual Workload"
+    - "AI Technology in Publishing Industry"
+    - "Leveraging AI to Improve Layout Consistency"
+    - "Typesetting Automation for Improved Quality"
+    - "AI Impact on Newspaper Production"
+    - "Reinforcement Learning"
+    - "Patent"
 ---
 
 <div style="text-align:justify">

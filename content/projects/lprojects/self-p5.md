@@ -1,5 +1,6 @@
 ---
 title: "Point Cloud Based 3D Object Detection"
+lead: "Unlock the potential of \"Point Cloud Based 3D Object Detection\" in transforming autonomous systems! This innovative project focuses on developing advanced 3D object detection algorithms to enhance accuracy, robustness, and capabilities across a variety of industries. From self-driving cars to robotics, explore how leveraging point cloud data can improve real-time decision-making, ensuring safer and more efficient autonomous systems in a wide range of applications."
 link: ""
 demo_link: ""
 image: "https://www.researchgate.net/profile/Linghao-Chen-2/publication/340499848/figure/fig1/AS:877886718365697@1586315912872/The-dimension-regularization-during-Pseudo-GT-generation-penalizes-a-voxel-if-it-is.ppm"
@@ -7,6 +8,26 @@ description: "Develop 3D Object Detection algorithms for enhancing the accuracy,
 featured: true
 tags: ["AI", "Machine Learning", "Deep Learning", "Computer Vision"]
 fact: ""
+keywords:
+  - "Point Cloud Based 3D Object Detection"
+  - "AI for 3D Object Detection"
+  - "Machine Learning in Autonomous Systems"
+  - "Deep Learning for 3D Object Recognition"
+  - "Computer Vision for 3D Object Detection"
+  - "3D Object Detection Algorithms"
+  - "AI-Based Object Detection in Robotics"
+  - "Autonomous Systems and Machine Learning"
+  - "Deep Learning for Real-Time Object Detection"
+  - "Point Cloud Data in Computer Vision"
+  - "Robust 3D Object Detection with AI"
+  - "Computer Vision for Autonomous Vehicles"
+  - "Enhancing Accuracy in Object Detection with AI"
+  - "Deep Learning in 3D Vision Systems"
+  - "3D Object Detection for Robotics and AI"
+  - "AI for Improving Autonomous Decision Making"
+  - "Point Cloud Analysis in Machine Learning"
+  - "Object Detection for Autonomous Applications"
+  - "AI-Powered 3D Object Detection Systems"
 weight: 100
 sitemap: 
     priority : 1.0
