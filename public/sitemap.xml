@@ -101,11 +101,15 @@
   </url><url>
     <loc>http://localhost:1313/tags/finance/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/fintech/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/generative-ai/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/natural-language-processing/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
     <priority>0.1</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/transformers/</loc>
   </url>
 </urlset>
